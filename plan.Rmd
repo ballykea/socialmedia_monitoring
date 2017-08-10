@@ -52,3 +52,5 @@ I plan to monitor mentions of these Twitter accounts along with hashtags per bel
 * The One Million Tweet Map (http://onemilliontweetmap.com) geo-located tweets only. The one million tweet map is a social media tool that you can use to visualize tweets and aggregated Twitter data on a world map. By using The one million tweet map you can run searches specifying a search term or a hashtag and quickly find a heatmap. It is free and you can use it to find tweets in a map.
 
 I've listed tools somewhat in order of priority for use. It remains to be seen which prove most useful, and how many of these I actually use. Others may assign different priority.
+
+I am still working out a scheme for collection of some important data - maybe a VOST worksheet or simple GoogleForm. Or just entry into WebEOC. TBD.
