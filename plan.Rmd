@@ -34,6 +34,8 @@ I plan to monitor mentions of these Twitter accounts along with hashtags per bel
 * #NotInThisLifetime
 * #slash
 
+Any emergency alerts and info to audience from the promotional folks will come through #LIVENATION.
+
 ### Additional Hashtags (Sporadic Monitoring) ###
 * #gunsnroses
 * #gnr
@@ -50,6 +52,7 @@ I plan to monitor mentions of these Twitter accounts along with hashtags per bel
 * HootSuite (https://hootsuite.com) Hootsuite is a platform for managing social media. The system’s user interface takes the form of a dashboard, and supports social network integrations for Twitter, Facebook, Instagram, LinkedIn, Google+, YouTube, and many more.
 * Advanced Twitter Search (https://twitter.com/search-advanced?lang=en)
 * The One Million Tweet Map (http://onemilliontweetmap.com) geo-located tweets only. The one million tweet map is a social media tool that you can use to visualize tweets and aggregated Twitter data on a world map. By using The one million tweet map you can run searches specifying a search term or a hashtag and quickly find a heatmap. It is free and you can use it to find tweets in a map.
+* Storify (https://storify.com) Capture and report your hashtag’s results, or curate the best user content.
 
 I've listed tools somewhat in order of priority for use. It remains to be seen which prove most useful, and how many of these I actually use. Others may assign different priority.
 
