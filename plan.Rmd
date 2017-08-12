@@ -57,4 +57,4 @@ Any emergency alerts and info to audience from the promotional folks will come t
 
 I've listed tools somewhat in order of priority for use. It remains to be seen which prove most useful, and how many of these I actually use. Others may assign different priority.
 
-I am still working out a scheme for collection of some important data - maybe a VOST worksheet or simple GoogleForm. Or just entry into WebEOC. TBD.
+There appeared no need for a separate scheme for collection of important data - just entry into WebEOC seemd best option.
