@@ -37,11 +37,11 @@ output:
 
 Others to be monitored as needed.
 
-### Main Hashtags (Regular Monitoring) ###
+### Main Hashtags (Planned Monitoring) ###
 * #FlorenceNC
 * #FlorenceNC winston salem
-* #FlorenceNC raleigh
-* #FlorenceNC wilmington
+* #FlorenceNC raleigh  (as needed)
+* #FlorenceNC wilmington  (as needed)
 * #Florence
 * #ReadyForsythFlorence
 
