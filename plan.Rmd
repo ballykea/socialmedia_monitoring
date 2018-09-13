@@ -22,7 +22,7 @@ output:
 ## Setup Before Event to be Monitored ##
 * Hurricane Florence
 
-### Aditional Monitoring Info ###
+### Accounts to Potentially Monitor ###
 * @CityofWS
 * @ReadyNC
 * @ReadyForsyth
@@ -47,7 +47,7 @@ Others to be monitored as needed.
 
 
 ### Additional Hashtags (Sporadic Monitoring) ###
-
+* as needed
 
 ### Potential Monitoring Tools ###
 * TweetDeck (https://tweetdeck.twitter.com) See helpful info at (https://dgvost.uk/2017/04/tweetdeck/) TweetDeck consists of a series of customisable columns, which can be set up to display the user's Twitter timeline, mentions, direct messages, lists, trends, favorites, search results, hashtags, or all tweets by or to a single user.
