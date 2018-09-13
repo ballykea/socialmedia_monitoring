@@ -1,7 +1,7 @@
 ---
 title: "Social Media Monitoring Plan"
 author: Kay Endriss
-date: "August 10, 2017"
+date: "September 13, 2018"
 output: 
   html_document: 
     theme: cosmo
@@ -19,27 +19,32 @@ output:
 “A man may plant a tree for a number of reasons. Perhaps he likes trees. Perhaps he wants shelter. Or perhaps he knows that someday he may need the firewood.” 
 ― Joanne Harris, Runemarks
 
-## Setup Before Event To Be Monitored ##
+## Setup Before Event to be Monitored ##
+* Hurricane Florence
 
 ### Aditional Monitoring Info ###
-* Opening band: Live @Freaks4Live
-* Graphics package by: Creative Works London @CreativeWorksUK
-* Venue management: @LJVMColiseum  (BB&T Field actual location)
-* Concert ticket sales: @LiveNationNCSC
+* @CityofWS
+* @ReadyNC
+* @ReadyForsyth
+* @cityofwspolice
+* @NWSRaleigh
+* @NWSBlacksburg
+* @NWSGSP
 
-I plan to monitor mentions of these Twitter accounts along with hashtags per below.
+
 
 ### Main Hashtags (Regular Monitoring) ###
-* #GnFnR
-* #NotInThisLifetime
-* #slash
-* #GNRWinstonSalem
+* #FlorenceNC
+* #FlorenceNC winston salem
+* #FlorenceNC raleigh
+* #Florence
 
-Any emergency alerts and info to audience from the promotional folks will come through #LIVENATION.
+
+Any emergency alerts and info will come through #.
 
 ### Additional Hashtags (Sporadic Monitoring) ###
-* #gunsnroses
-* #gnr
+* #
+
 
 
 ### Potential Monitoring Tools ###
@@ -53,7 +58,6 @@ Any emergency alerts and info to audience from the promotional folks will come t
 * HootSuite (https://hootsuite.com) Hootsuite is a platform for managing social media. The system’s user interface takes the form of a dashboard, and supports social network integrations for Twitter, Facebook, Instagram, LinkedIn, Google+, YouTube, and many more.
 * Advanced Twitter Search (https://twitter.com/search-advanced?lang=en)
 * The One Million Tweet Map (http://onemilliontweetmap.com) geo-located tweets only. The one million tweet map is a social media tool that you can use to visualize tweets and aggregated Twitter data on a world map. By using The one million tweet map you can run searches specifying a search term or a hashtag and quickly find a heatmap. It is free and you can use it to find tweets in a map.
-* Storify (https://storify.com) Capture and report your hashtag’s results, or curate the best user content.
 
 I've listed tools somewhat in order of priority for use. It remains to be seen which prove most useful, and how many of these I actually use. Others may assign different priority.
 
