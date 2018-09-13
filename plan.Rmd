@@ -57,4 +57,4 @@ Any emergency alerts and info to audience from the promotional folks will come t
 
 I've listed tools somewhat in order of priority for use. It remains to be seen which prove most useful, and how many of these I actually use. Others may assign different priority.
 
-There appeared no need for a separate scheme for collection of important data - just entry into WebEOC seemd best option.
+There appeared no need for a separate scheme for collection of important data - just entry into WebEOC seemed best option.
