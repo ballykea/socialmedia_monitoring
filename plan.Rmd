@@ -33,21 +33,20 @@ output:
 * @NWSWilmingtonNC
 * @noticias40 Univision40 - Spanish language
 * @NewHanoverEM
+* @DukeEnergy
 
-
+Others to be monitored as needed.
 
 ### Main Hashtags (Regular Monitoring) ###
 * #FlorenceNC
 * #FlorenceNC winston salem
 * #FlorenceNC raleigh
+* #FlorenceNC wilmington
 * #Florence
+* #ReadyForsythFlorence
 
-
-Any emergency alerts and info will come through #.
 
 ### Additional Hashtags (Sporadic Monitoring) ###
-* #
-
 
 
 ### Potential Monitoring Tools ###
