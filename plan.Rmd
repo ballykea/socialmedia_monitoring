@@ -60,8 +60,9 @@ Others to be monitored as needed.
 ##### Flood #####
 * NC Flood Risk Information System https://fris.nc.gov/fris/
 * Real-time flood info - NC Flood Inundation Mapping and Alert Network https://fiman.nc.gov/fiman/
-##### Power Outage #####
+##### Power Outages #####
 * Duke Energy Outage Map https://www.duke-energy.com/outages/current-outages
+* NN Power Outages Map (by Bluefire Studios) https://poweroutage.us/area/state/north%20carolina
 
 #### General Monitoring Tools and Information Sources ####
 * TweetDeck (https://tweetdeck.twitter.com) See helpful info at (https://dgvost.uk/2017/04/tweetdeck/) TweetDeck consists of a series of customisable columns, which can be set up to display the user's Twitter timeline, mentions, direct messages, lists, trends, favorites, search results, hashtags, or all tweets by or to a single user.
