@@ -52,7 +52,16 @@ Others to be monitored as needed.
 
 
 ### Potential Monitoring Tools ###
-* Hurricane Florence Google Crisis Map (http://google.org/crisismap/2018-florence)
+## Specific to this event ##
+* Hurricane Florence Google Crisis Map (http://google.org/crisismap/2018-florence) Google has launched a Crisis Map for Hurricane Florence including storm path, evacuation routes, road closures and shelter information from @waze
+
+## Specific to this type event/hazard ##
+# FLOOD #
+* NC Flood Risk Information System https://fris.nc.gov/fris/
+* Real-time flood info - NC Flood Inundation Mapping and Alert Network https://fiman.nc.gov/fiman/
+# POWER OUTAGE #
+* Duke Energy Outage Map https://www.duke-energy.com/outages/current-outages
+
 * TweetDeck (https://tweetdeck.twitter.com) See helpful info at (https://dgvost.uk/2017/04/tweetdeck/) TweetDeck consists of a series of customisable columns, which can be set up to display the user's Twitter timeline, mentions, direct messages, lists, trends, favorites, search results, hashtags, or all tweets by or to a single user.
 * Social Searcher (https://www.social-searcher.com) Social Searcher – Free Social Media Search Engine. It allows to search for content in social networks in real-time and provides deep analytics data. Users can search without logging in for publicly posted information on Twitter, Google+, Facebook, Youtube, Instagram, Tumblr, Reddit, Flickr, Dailymotion and Vimeo. Free users can also save their searches and set up email alerts. Premium Social Monitoring features include: saving social mentions history, exporting data, API integration, advanced analytics, immediate email notifications.
 * Facebook Search (https://www.facebook.com/search/all/) 
