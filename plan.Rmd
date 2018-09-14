@@ -53,6 +53,7 @@ Others to be monitored as needed.
 
 ### Potential Monitoring Tools or Information Sources ###
 #### Specific to this event ####
+* FEMA Rumor Control https://www.fema.gov/florence-rumors
 * Hurricane Florence Google Crisis Map (http://google.org/crisismap/2018-florence) Google has launched a Crisis Map for Hurricane Florence including storm path, evacuation routes, road closures and shelter information from @waze
 
 #### Specific to this type event/hazard ####
