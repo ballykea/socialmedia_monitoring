@@ -52,14 +52,14 @@ Others to be monitored as needed.
 
 
 ### Potential Monitoring Tools ###
-## Specific to this event ##
+#### Specific to this event ####
 * Hurricane Florence Google Crisis Map (http://google.org/crisismap/2018-florence) Google has launched a Crisis Map for Hurricane Florence including storm path, evacuation routes, road closures and shelter information from @waze
 
-## Specific to this type event/hazard ##
-# FLOOD #
+#### Specific to this type event/hazard ####
+##### Flood #####
 * NC Flood Risk Information System https://fris.nc.gov/fris/
 * Real-time flood info - NC Flood Inundation Mapping and Alert Network https://fiman.nc.gov/fiman/
-# POWER OUTAGE #
+##### Power Outage #####
 * Duke Energy Outage Map https://www.duke-energy.com/outages/current-outages
 
 * TweetDeck (https://tweetdeck.twitter.com) See helpful info at (https://dgvost.uk/2017/04/tweetdeck/) TweetDeck consists of a series of customisable columns, which can be set up to display the user's Twitter timeline, mentions, direct messages, lists, trends, favorites, search results, hashtags, or all tweets by or to a single user.
