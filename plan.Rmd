@@ -1,7 +1,7 @@
 ---
 title: "Social Media Monitoring Plan"
 author: Kay Endriss
-date: "September 13, 2018"
+date: "November 11, 2018"
 output: 
   html_document: 
     theme: cosmo
@@ -19,50 +19,48 @@ output:
 “A man may plant a tree for a number of reasons. Perhaps he likes trees. Perhaps he wants shelter. Or perhaps he knows that someday he may need the firewood.” 
 ― Joanne Harris, Runemarks
 
-## Setup Before Event to be Monitored ##
-* Hurricane Florence
+## Event to be Monitored ##
+* I-40 Business Closure - The 1.2-mile section of Business 40 between Peters Creek Parkway and U.S 52. in Winston-Salem will close Sunday, Nov. 11, at 8 a.m. When Business 40 reopens, it will provide a better driving experience with wider lanes, longer access and exit ramps, higher bridges, an increased speed limit, a modern look and a new name – Salem Parkway/U.S. 421.
 
 ### Accounts to Potentially Monitor ###
+* @NCDOT_Triad
 * @CityofWS
+* @CityofWSPolice
 * @ReadyNC
 * @ReadyForsyth
-* @cityofwspolice
-* @NWSRaleigh
-* @NWSBlacksburg
-* @NWSGSP
-* @NWSWilmingtonNC
 * @noticias40 Univision40 - Spanish language
-* @NewHanoverEM
-* @DukeEnergy
+* @NCDOT
+* @WSTABUS
+* @PARTNC
+* @waze
 
 Others to be monitored as needed.
 
-### Main Hashtags (Planned Monitoring) ###
-* #FlorenceNC
-* #FlorenceNC winston salem
-* #FlorenceNC raleigh  (as needed)
-* #FlorenceNC wilmington  (as needed)
-* #Florence
-* #ReadyForsythFlorence
-* #HurricanFlorence  - noticed this was trending on Twitter pm 13SEP - realized Hurrican is Spanish Lang spelling (w/o accent mark) also possibly "local places are deliberately misspelling the hashtag as a way to localize informational tweets to their area"
+### Websites and Additional Information ###
+* https://www.business40nc.com/
+* http://www.partnc.org/biz40/
+* https://www.facebook.com/business40nc
+* https://twitter.com/ekendriss/lists/i-40-business-closure
 
+### Main Hashtags (Planned Monitoring) ###
+* #biz40nc
+* #biz40
+* #business40
+* #Triadroads
 
 ### Additional Hashtags (Sporadic Monitoring) ###
 * as needed
 
-
 ### Potential Monitoring Tools or Information Sources ###
 #### Specific to this event ####
-* FEMA Rumor Control https://www.fema.gov/florence-rumors
-* Hurricane Florence Google Crisis Map (http://google.org/crisismap/2018-florence) Google has launched a Crisis Map for Hurricane Florence including storm path, evacuation routes, road closures and shelter information from @waze
-
 #### Specific to this type event/hazard ####
 ##### Flood #####
-* NC Flood Risk Information System https://fris.nc.gov/fris/
-* Real-time flood info - NC Flood Inundation Mapping and Alert Network https://fiman.nc.gov/fiman/
 ##### Power Outages #####
-* Duke Energy Outage Map https://www.duke-energy.com/outages/current-outages
-* NN Power Outages Map (by Bluefire Studios) https://poweroutage.us/area/state/north%20carolina
+##### Traffic #####
+* http://waze.com
+* https://tims.ncdot.gov/tims/RegionSummary.aspx?projectId=5  live traffic cams
+* @TriadRoads
+
 
 #### General Monitoring Tools and Information Sources ####
 * TweetDeck (https://tweetdeck.twitter.com) See helpful info at (https://dgvost.uk/2017/04/tweetdeck/) TweetDeck consists of a series of customisable columns, which can be set up to display the user's Twitter timeline, mentions, direct messages, lists, trends, favorites, search results, hashtags, or all tweets by or to a single user.
