@@ -1,6 +1,6 @@
 ---
 title: "Social Media Monitoring Plan"
-author: Kay Endriss
+author: Kay Endriss, Incident Management Team Intelligence Officer
 date: "November 11, 2018"
 output: pdf_document 
     theme: cosmo
@@ -92,4 +92,10 @@ output: pdf_document
 Tools listed somewhat in order of use priority. Others may assign different priority than the author of this document.
 
 #### Data Output ####
-Share via WebEOC
+##### For EOC #####
+* Share via WebEOC
+##### Public Information #####
+* Share via https://www.facebook.com/ReadyFORSYTH/
+* Share via https://twitter.com/ReadyForsyth
+* Share via http://www.readyforsyth.org
+
