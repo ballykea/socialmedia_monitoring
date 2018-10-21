@@ -89,5 +89,5 @@ Others monitored as needed.
 
 I've listed tools somewhat in order of priority for use. It remains to be seen which prove most useful, and how many of these I actually use. Others may assign different priority.
 
-#### Data Collection for sharing with others ####
-Via WebEOC
+#### Data Output ####
+Share via WebEOC
