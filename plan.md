@@ -18,14 +18,13 @@ output: pdf_document
 ###### “A man may plant a tree for a number of reasons. Perhaps he likes trees. Perhaps he wants shelter. Or perhaps he knows that someday he may need the firewood.” 
 ###### ― Joanne Harris, Runemarks
 
-horizontal rule/slide break: 
 ***
 
 ## Event to be Monitored ##
 * I-40 Business Closure - The 1.2-mile section of Business 40 between Peters Creek Parkway and U.S 52. in Winston-Salem will close Sunday, Nov. 11, at 8 a.m. When Business 40 reopens, it will provide a better driving experience with wider lanes, longer access and exit ramps, higher bridges, an increased speed limit, a modern look and a new name – Salem Parkway/U.S. 421.
 
 image: 
-![Salem Parkway/421 coming soon](SalemPkwy.jpg)
+![Salem Parkway/421 coming soon](https://pbs.twimg.com/media/CvTQ9fgWYAAcXfH.jpg)
 
 ### Accounts to Potentially Monitor ###
 * @NCDOT_Triad
