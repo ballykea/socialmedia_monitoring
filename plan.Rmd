@@ -2,8 +2,7 @@
 title: "Social Media Monitoring Plan"
 author: Kay Endriss
 date: "November 11, 2018"
-output: 
-  html_document: 
+output: html_document 
     theme: cosmo
 ---
 
