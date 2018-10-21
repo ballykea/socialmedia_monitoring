@@ -53,21 +53,25 @@ Others monitored as needed.
 * #business40
 * #Triadroads
 
+<!--
 ### Additional Hashtags (Sporadic Monitoring) ###
-* as needed
+* as needed-->
 
 ### Potential Monitoring Tools or Information Sources ###
 #### Specific to this event ####
+* https://tims.ncdot.gov/tims/RegionSummary.aspx?projectId=5  live traffic cams
+
 #### Specific to this type event/hazard ####
+<!--
 ##### Flood #####
-##### Power Outages #####
+##### Power Outages #####-->
 ##### Traffic #####
 * Waze
     + http://waze.com
     + https://twitter.com/waze
     + https://twitter.com/waze_es (Spanish language)
     
-* https://tims.ncdot.gov/tims/RegionSummary.aspx?projectId=5  live traffic cams
+
 
 * https://twitter.com/Triadroads
 
