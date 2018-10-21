@@ -33,8 +33,7 @@ output: pdf_document
     + https://twitter.com/wschamber
     + https://twitter.com/downtownWS
 
-* https://twitter.com/waze
-* https://twitter.com/waze_es (Spanish language)
+* https://twitter.com/waze AND https://twitter.com/waze_es (Spanish language)
 
 * https://www.facebook.com/GOFCSONC/  Forsyth County Sheriff's Office
 
