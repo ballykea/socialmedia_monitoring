@@ -42,7 +42,6 @@ output: pdf_document
 * https://www.business40nc.com/
 * http://www.partnc.org/biz40/
 * https://www.facebook.com/business40nc
-* https://twitter.com/ekendriss/lists/i-40-business-closure
 
 ### Main Hashtags (Planned Monitoring) ###
 * #biz40nc
