@@ -7,17 +7,17 @@ output:
     theme: cosmo
 ---
 
-“In preparing for battle I have always found that plans are useless, but planning is indispensable.” 
-― Dwight D. Eisenhower
+###### “In preparing for battle I have always found that plans are useless, but planning is indispensable.” 
+###### ― Dwight D. Eisenhower
 
-“Always, Always have a plan” 
-― Rick Riordan
+###### “Always, Always have a plan” 
+###### ― Rick Riordan
 
-“The best laid schemes o' mice an' men gang aft agley.” 
-― Robert Burns, Collected Poems of Robert Burns
+###### “The best laid schemes o' mice an' men gang aft agley.” 
+###### ― Robert Burns, Collected Poems of Robert Burns
 
-“A man may plant a tree for a number of reasons. Perhaps he likes trees. Perhaps he wants shelter. Or perhaps he knows that someday he may need the firewood.” 
-― Joanne Harris, Runemarks
+###### “A man may plant a tree for a number of reasons. Perhaps he likes trees. Perhaps he wants shelter. Or perhaps he knows that someday he may need the firewood.” 
+###### ― Joanne Harris, Runemarks
 
 ## Event to be Monitored ##
 * I-40 Business Closure - The 1.2-mile section of Business 40 between Peters Creek Parkway and U.S 52. in Winston-Salem will close Sunday, Nov. 11, at 8 a.m. When Business 40 reopens, it will provide a better driving experience with wider lanes, longer access and exit ramps, higher bridges, an increased speed limit, a modern look and a new name – Salem Parkway/U.S. 421.
@@ -26,13 +26,12 @@ output:
 * @NCDOT_Triad
 * @CityofWS
 * @CityofWSPolice
-* @ReadyNC
 * @ReadyForsyth
-* @noticias40 Univision40 - Spanish language
 * @NCDOT
 * @WSTABUS
 * @PARTNC
 * @waze
+* https://www.facebook.com/GOFCSONC/  Forsyth County Sheriff's Office
 
 Others to be monitored as needed.
 
