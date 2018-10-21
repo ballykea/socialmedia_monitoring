@@ -5,39 +5,41 @@ date: "November 11, 2018"
 output: pdf_document 
     theme: cosmo
 ---
-
+<!--
 ###### “In preparing for battle I have always found that plans are useless, but planning is indispensable.” 
 ###### ― Dwight D. Eisenhower
-
 ###### “Always, Always have a plan” 
 ###### ― Rick Riordan
-
 ###### “The best laid schemes o' mice an' men gang aft agley.” 
 ###### ― Robert Burns, Collected Poems of Robert Burns
-
 ###### “A man may plant a tree for a number of reasons. Perhaps he likes trees. Perhaps he wants shelter. Or perhaps he knows that someday he may need the firewood.” 
-###### ― Joanne Harris, Runemarks
-
-***
+###### ― Joanne Harris, Runemarks-->
 
 ## Event to be Monitored ##
-* I-40 Business Closure - The 1.2-mile section of Business 40 between Peters Creek Parkway and U.S 52. in Winston-Salem will close Sunday, Nov. 11, at 8 a.m. When Business 40 reopens, it will provide a better driving experience with wider lanes, longer access and exit ramps, higher bridges, an increased speed limit, a modern look and a new name – Salem Parkway/U.S. 421.
+* I-40 Business Closure - The 1.2-mile section of Business 40 between Peters Creek Parkway and US 52 in Winston-Salem will close Sunday, Nov. 11, at 8 a.m. When Business 40 reopens, it will provide a better driving experience with wider lanes, longer access and exit ramps, higher bridges, an increased speed limit, a modern look and a new name – Salem Parkway/US 421.
 
 image: 
-![Salem Parkway/421 coming soon](https://pbs.twimg.com/media/CvTQ9fgWYAAcXfH.jpg)
+![Salem Parkway/US 421 coming soon](https://pbs.twimg.com/media/CvTQ9fgWYAAcXfH.jpg)
 
 ### Accounts to Potentially Monitor ###
-* @NCDOT_Triad
-* @CityofWS
-* @CityofWSPolice
-* @ReadyForsyth
-* @NCDOT
-* @WSTABUS
-* @PARTNC
-* @waze
+* https://twitter.com/ekendriss/lists/i-40-business-closure
+    + https://twitter.com/NCDOT_Triad
+    + https://twitter.com/PARTNC
+    + https://twitter.com/CityofWS
+    + https://twitter.com/cityofwspolice
+    + https://twitter.com/fcfd911comm
+    + https://twitter.com/ReadyForsyth
+    + https://twitter.com/WSTABUS
+    + https://twitter.com/NCDOT
+    + https://twitter.com/wschamber
+    + https://twitter.com/downtownWS
+
+* https://twitter.com/waze
+* https://twitter.com/waze_es (Spanish language)
+
 * https://www.facebook.com/GOFCSONC/  Forsyth County Sheriff's Office
 
-Others to be monitored as needed.
+Others monitored as needed.
 
 ### Websites and Additional Information ###
 * https://www.business40nc.com/
@@ -60,10 +62,14 @@ Others to be monitored as needed.
 ##### Flood #####
 ##### Power Outages #####
 ##### Traffic #####
-* http://waze.com
+* Waze
+    + http://waze.com
+    + https://twitter.com/waze
+    + https://twitter.com/waze_es (Spanish language)
+    
 * https://tims.ncdot.gov/tims/RegionSummary.aspx?projectId=5  live traffic cams
-* @TriadRoads
 
+* https://twitter.com/Triadroads
 
 #### General Monitoring Tools and Information Sources ####
 * TweetDeck (https://tweetdeck.twitter.com) See helpful info at (https://dgvost.uk/2017/04/tweetdeck/) TweetDeck consists of a series of customisable columns, which can be set up to display the user's Twitter timeline, mentions, direct messages, lists, trends, favorites, search results, hashtags, or all tweets by or to a single user.
@@ -79,4 +85,5 @@ Others to be monitored as needed.
 
 I've listed tools somewhat in order of priority for use. It remains to be seen which prove most useful, and how many of these I actually use. Others may assign different priority.
 
-There appeared no need for a separate scheme for collection of important data - just entry into WebEOC seemed best option.
+#### Data Collection for sharing with others ####
+Via WebEOC
