@@ -17,8 +17,7 @@ output: pdf_document
 
 ## Event to be Monitored ##
 * I-40 Business Closure - The 1.2-mile section of Business 40 between Peters Creek Parkway and US 52 in Winston-Salem will close Sunday, Nov. 11, at 8 a.m. When Business 40 reopens, it will provide a better driving experience with wider lanes, longer access and exit ramps, higher bridges, an increased speed limit, a modern look and a new name – Salem Parkway/US 421.
-
-image: 
+ 
 ![Salem Parkway/US 421](https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/4/99/4996ebdc-65a7-5780-b5a4-0e5cf978bb92/580a2b95da96c.image.jpg?resize=1200%2C889)
 
 ### Accounts to Potentially Monitor ###
@@ -38,8 +37,6 @@ image:
 * https://twitter.com/waze_es (Spanish language)
 
 * https://www.facebook.com/GOFCSONC/  Forsyth County Sheriff's Office
-
-Others monitored as needed.
 
 ### Websites and Additional Information ###
 * https://www.business40nc.com/
@@ -91,7 +88,7 @@ Others monitored as needed.
 * Advanced Twitter Search (https://twitter.com/search-advanced?lang=en)
 * The One Million Tweet Map (http://onemilliontweetmap.com) geo-located tweets only. The one million tweet map is a social media tool that you can use to visualize tweets and aggregated Twitter data on a world map. By using The one million tweet map you can run searches specifying a search term or a hashtag and quickly find a heatmap. It is free and you can use it to find tweets in a map.
 
-I've listed tools somewhat in order of priority for use. It remains to be seen which prove most useful, and how many of these I actually use. Others may assign different priority.
+Tools listed somewhat in order of use priority. Others may assign different priority than the author of this document.
 
 #### Data Output ####
 Share via WebEOC
