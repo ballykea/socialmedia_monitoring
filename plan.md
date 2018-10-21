@@ -35,10 +35,9 @@ output: pdf_document
 
 * https://www.facebook.com/GOFCSONC/  Forsyth County Sheriff's Office
 
+<!--
 ### Websites and Additional Information ###
-* https://www.business40nc.com/
-* http://www.partnc.org/biz40/
-* https://www.facebook.com/business40nc
+-->
 
 ### Main Hashtags (Planned Monitoring) ###
 * #biz40nc
@@ -48,10 +47,15 @@ output: pdf_document
 
 <!--
 ### Additional Hashtags (Sporadic Monitoring) ###
-* as needed-->
+* as needed
+-->
 
 ### Potential Monitoring Tools or Information Sources ###
 #### Specific to this event ####
+* https://www.business40nc.com/
+* http://www.partnc.org/biz40/
+* https://www.facebook.com/business40nc
+
 * https://www.business40nc.com/Documents/detour-route-exits.pdf Detour route map
 * https://tims.ncdot.gov/tims/RegionSummary.aspx?projectId=5  live traffic cams
 * Call 511 (8:15 a.m. to 7:45 p.m., weekends from 8:15 a.m. to 4:45 p.m. and state holidays from 9:15 a.m. until 4:45 p.m. to speak to a customer service representative).
@@ -61,7 +65,8 @@ output: pdf_document
 #### Specific to this type event/hazard ####
 <!--
 ##### Flood #####
-##### Power Outages #####-->
+##### Power Outages #####
+-->
 ##### Traffic #####
 * Waze
     + http://waze.com
