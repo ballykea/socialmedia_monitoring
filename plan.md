@@ -26,7 +26,6 @@ output: pdf_document
     + https://twitter.com/PARTNC
     + https://twitter.com/CityofWS
     + https://twitter.com/cityofwspolice
-    + https://twitter.com/fcfd911comm
     + https://twitter.com/ReadyForsyth
     + https://twitter.com/WSTABUS
     + https://twitter.com/NCDOT
@@ -34,7 +33,7 @@ output: pdf_document
     + https://twitter.com/downtownWS
 
 * https://www.facebook.com/GOFCSONC/  Forsyth County Sheriff's Office
-
+* https://twitter.com/fcfd911comm  911 Communications
 <!--
 ### Websites and Additional Information ###
 -->
