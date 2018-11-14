@@ -44,6 +44,14 @@ output: pdf_document
 * #business40
 * #Triadroads
 
+### Additional Hashtags ###
+* #WSTraffic
+* #TrafficAlert
+* #DriveSafely
+* #TriadTraffic
+* #WinstonSalem
+* #WSNC
+
 <!--
 ### Additional Hashtags (Sporadic Monitoring) ###
 * as needed
