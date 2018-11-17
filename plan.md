@@ -103,7 +103,9 @@ https://www.winstonsalem.com/2018/11/business-40-closes-tomorrow/?fbclid=IwAR2uW
 * Advanced Twitter Search (https://twitter.com/search-advanced?lang=en)
 * The One Million Tweet Map (http://onemilliontweetmap.com) geo-located tweets only. The one million tweet map is a social media tool that you can use to visualize tweets and aggregated Twitter data on a world map. By using The one million tweet map you can run searches specifying a search term or a hashtag and quickly find a heatmap. It is free and you can use it to find tweets in a map.
 
-Tools listed somewhat in order of use priority. Others may assign different priority than the author of this document.
+Monitoring tools listed somewhat in order of use priority. Others may assign different priority than the author of this document.
+
+***
 
 #### Data Output ####
 ##### For EOC #####
