@@ -24,7 +24,7 @@ When Business 40 reopens, it will provide a better driving experience with wider
 
 ![Bye Bye Business 40](https://pbs.twimg.com/media/DsD0nFvWoAA_IrL.jpg:large)
 
-  
+***  
 ### Accounts to Potentially Monitor ###
 * https://twitter.com/ekendriss/lists/i-40-business-closure
     + https://twitter.com/NCDOT_Triad
