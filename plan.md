@@ -17,7 +17,10 @@ output: pdf_document
 
 ## Event to be Monitored ##
 * I-40 Business Closure - The 1.2-mile section of Business 40 between Peters Creek Parkway and US 52 in Winston-Salem will close Sunday, Nov. 11, at 8 a.m. When Business 40 reopens, it will provide a better driving experience with wider lanes, longer access and exit ramps, higher bridges, an increased speed limit, a modern look and a new name – Salem Parkway/US 421.
- 
+
+Applicable Multi-Agency Coordination Center Goal: Coordinate real-time messaging through multi-agency PIO’s, governmental media and social media sources.
+Note: In this incident, it will be particularly important to monitor citizen responses to official information.
+
 ![Bye Bye Business 40](https://pbs.twimg.com/media/DsD0nFvWoAA_IrL.jpg:large)
 
 ### Accounts to Potentially Monitor ###
@@ -44,8 +47,8 @@ output: pdf_document
 * #business40
 * #Triadroads
 
-### Additional Hashtags ###
-* #WSTraffic
+### Additional Hashtags (Possible Monitoring) ###
+* #WSTraffic (be aware, can include non-Winston info)
 * #TrafficAlert
 * #DriveSafely
 * #TriadTraffic
@@ -62,8 +65,9 @@ output: pdf_document
 * https://www.business40nc.com/
 * http://www.partnc.org/biz40/
 * https://www.facebook.com/business40nc
+* Weekend Timeline (scroll down) with links to details from NCDOT Division 9 (via WS Chamber of Commerce) 
+https://www.winstonsalem.com/2018/11/business-40-closes-tomorrow/?fbclid=IwAR2uWpw1JQhHLoEvdRTvqA8egjwIWYhcChZY1rQQhYt5eR1gYhFT4Sjq2wY
 
-* Great, specific timeline info from NCDOT Division 9 via WS Chamber of Commerce https://www.winstonsalem.com/2018/11/business-40-closes-tomorrow/?fbclid=IwAR2uWpw1JQhHLoEvdRTvqA8egjwIWYhcChZY1rQQhYt5eR1gYhFT4Sjq2wY
 * https://www.business40nc.com/Documents/detour-route-exits.pdf Detour route map
 * https://tims.ncdot.gov/tims/RegionSummary.aspx?projectId=5  live traffic cams
 * Call 511 (8:15 a.m. to 7:45 p.m., weekends from 8:15 a.m. to 4:45 p.m. and state holidays from 9:15 a.m. until 4:45 p.m. to speak to a customer service representative).
