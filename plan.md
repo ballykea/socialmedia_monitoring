@@ -16,7 +16,7 @@ output: pdf_document
 ###### ― Joanne Harris, Runemarks-->
 
 ## Event to be Monitored ##
-* I-40 Business Closure - The 1.2-mile section of Business 40 (Exits 5A to 6A; MM 5.0 to 6.0 both directions) between Peters Creek Parkway and US 52 in Winston-Salem will close Saturday, Nov. 16, at 6 a.m. https://tims.ncdot.gov/TIMS/IncidentDetail.aspx?id=551037  
+* I-40 Business Closure - The 1.2-mile section of Business 40 (Exits 5A to 6A; MM 5.0 to 6.0 both directions) between Peters Creek Parkway and US 52 in Winston-Salem will close Saturday, Nov. 17, at 6 a.m. https://tims.ncdot.gov/TIMS/IncidentDetail.aspx?id=551037  
 When Business 40 reopens, it will provide a better driving experience with wider lanes, longer access and exit ramps, higher bridges, an increased speed limit, a modern look and a new name – Salem Parkway/US 421.
 
 **Applicable Multi-Agency Coordination Center Goal:** Coordinate real-time messaging through multi-agency PIO’s, governmental media and social media sources.  
