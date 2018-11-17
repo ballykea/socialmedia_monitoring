@@ -1,7 +1,7 @@
 ---
 title: "Social Media Monitoring Plan"
 author: Kay Endriss, Incident Management Team Intelligence Officer
-date: "November 11, 2018"
+date: "November 17, 2018"
 output: pdf_document 
     theme: cosmo
 ---
@@ -63,6 +63,7 @@ output: pdf_document
 * http://www.partnc.org/biz40/
 * https://www.facebook.com/business40nc
 
+* Great, specific timeline info from NCDOT Division 9 via WS Chamber of Commerce https://www.winstonsalem.com/2018/11/business-40-closes-tomorrow/?fbclid=IwAR2uWpw1JQhHLoEvdRTvqA8egjwIWYhcChZY1rQQhYt5eR1gYhFT4Sjq2wY
 * https://www.business40nc.com/Documents/detour-route-exits.pdf Detour route map
 * https://tims.ncdot.gov/tims/RegionSummary.aspx?projectId=5  live traffic cams
 * Call 511 (8:15 a.m. to 7:45 p.m., weekends from 8:15 a.m. to 4:45 p.m. and state holidays from 9:15 a.m. until 4:45 p.m. to speak to a customer service representative).
