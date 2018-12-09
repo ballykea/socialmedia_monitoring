@@ -28,6 +28,7 @@ output: pdf_document
     + https://twitter.com/PARTNC
     + https://twitter.com/CityofWS
     + https://twitter.com/cityofwspolice
+    + https://twitter.com/cityofwsfire
     + https://twitter.com/ReadyForsyth
     + https://twitter.com/WSTABUS
     + https://twitter.com/NCDOT
@@ -41,13 +42,15 @@ output: pdf_document
 -->
 
 ### Main Hashtags (Planned Monitoring) ###
+* #WinterStormDiego
+* #Snowmageddon2018
+* #snowday
+* #NCSnow
 * #Triadroads
 
 ### Additional Hashtags (Possible Monitoring) ###
-* #WSTraffic (be aware, can include non-Winston info)
-* #TrafficAlert
-* #DriveSafely
-* #TriadTraffic
+* #WRALSNOW
+* #SnowOn2
 * #WinstonSalem
 * #WSNC
 
@@ -58,28 +61,24 @@ output: pdf_document
 
 ### Potential Monitoring Tools or Information Sources ###
 #### Specific to this event ####
-* https://www.business40nc.com/
-* http://www.partnc.org/biz40/
-* https://www.facebook.com/business40nc
-* Weekend Timeline (scroll down) with links to details from NCDOT Division 9 (via WS Chamber of Commerce) 
-https://www.winstonsalem.com/2018/11/business-40-closes-tomorrow/?fbclid=IwAR2uWpw1JQhHLoEvdRTvqA8egjwIWYhcChZY1rQQhYt5eR1gYhFT4Sjq2wY
-
-* https://www.business40nc.com/Documents/detour-route-exits.pdf Detour route map
-* https://tims.ncdot.gov/tims/RegionSummary.aspx?projectId=5  live traffic cams
-* Call 511 (8:15 a.m. to 7:45 p.m., weekends from 8:15 a.m. to 4:45 p.m. and state holidays from 9:15 a.m. until 4:45 p.m. to speak to a customer service representative).
-* Call NCDOT in Winston-Salem at (336) 747-7800.
-* Send an email to business40@business40nc.com
 
 #### Specific to this type event/hazard ####
 <!--
 ##### Flood #####
-##### Power Outages #####
 -->
 ##### Weather Conditions #####
-* Current Local Conditions 
-** https://forsyth.weatherstem.com/wfufootball
-** https://forsyth.weatherstem.com/wfu
-** https://forsyth.weatherstem.com/wssu
+* Current Local Conditions/Data 
+    + https://forsyth.weatherstem.com/wfufootball
+    + https://forsyth.weatherstem.com/wfu
+    + https://forsyth.weatherstem.com/wssu
+* NWS Offices on Twitter
+    + https://twitter.com/NWSRaleigh  Raleigh NC
+    + https://twitter.com/NWSBlacksburg  Blacksburg VA
+    + https://twitter.com/NWSGSP  Greenville/Spartanburg SC
+
+##### Power Outages #####
+* Duke Energy 
+    + https://www.duke-energy.com/outages/current-outages
 
 ##### Traffic #####
 * Waze
