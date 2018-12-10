@@ -23,6 +23,15 @@ output: pdf_document
 
 ***  
 ### Accounts to Potentially Monitor ###
+* https://twitter.com/ekendriss/lists/safety-forsythco-nc
+    + https://twitter.com/CityofWS
+    + https://twitter.com/cityofwspolice
+    + https://twitter.com/cityofwsfire
+    + https://twitter.com/CLTAirport
+    + https://twitter.com/ReadyForsyth
+    + https://twitter.com/readyguilford
+    + https://twitter.com/NWSRaleigh
+    + https://twitter.com/NCDOT_Triad
 * https://twitter.com/ekendriss/lists/i-40-business-closure
     + https://twitter.com/NCDOT_Triad
     + https://twitter.com/PARTNC
