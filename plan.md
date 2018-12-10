@@ -78,7 +78,12 @@ output: pdf_document
 
 ##### Power Outages #####
 * Duke Energy 
+    + https://www.dukeenergyupdates.com/
     + https://www.duke-energy.com/outages/current-outages
+* Energy United
+    + https://www.energyunited.com/storm-center/
+* Surry-Yadkin Electric Membership Corporation (Surry-Yadkin EMC)
+    + http://www.syemc.com/stormcenter
 
 ##### Traffic #####
 * Waze
