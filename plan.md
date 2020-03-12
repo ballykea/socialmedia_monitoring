@@ -1,7 +1,7 @@
 ---
-title: "Social Media Monitoring Plan"
+title: "COVID-19 Monitoring Plan"
 author: Kay Endriss, Incident Management Team Intelligence Officer
-date: "November 17, 2018"
+date: "March 12, 2020"
 output: pdf_document 
     theme: cosmo
 ---
@@ -16,10 +16,10 @@ output: pdf_document
 ###### ― Joanne Harris, Runemarks-->
 
 ## Event to be Monitored ##
-* I-40 Business Closure - The 1.2-mile section of Business 40 (Exits 5A to 6A; MM 5.0 to 6.0 both directions) between Peters Creek Parkway and US 52 in Winston-Salem will close Saturday, Nov. 17, at 6 a.m. https://tims.ncdot.gov/TIMS/IncidentDetail.aspx?id=551037  
-When Business 40 reopens, it will provide a better driving experience with wider lanes, longer access and exit ramps, higher bridges, an increased speed limit, a modern look and a new name – Salem Parkway/US 421.
+* COVID-19 virus epidemic   
 
-**Applicable Multi-Agency Coordination Center Goal:** Coordinate real-time messaging through multi-agency PIO’s, governmental media and social media sources.  
+
+**Applicable Joint Information Center Goal:** Coordinate real-time messaging through multi-agency PIO’s, governmental media and social media sources.  
 **Note:** In this incident, it will be particularly important to monitor citizen responses to official information.
 
 ![Bye Bye Business 40](https://pbs.twimg.com/media/DsD0nFvWoAA_IrL.jpg:large)
@@ -44,10 +44,10 @@ When Business 40 reopens, it will provide a better driving experience with wider
 -->
 
 ### Main Hashtags (Planned Monitoring) ###
-* #biz40nc
-* #biz40
-* #business40
-* #Triadroads
+* #covid19
+* #
+* #
+* #coronavirus
 
 ### Additional Hashtags (Possible Monitoring) ###
 * #WSTraffic (be aware, can include non-Winston info)
