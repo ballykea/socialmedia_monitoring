@@ -22,10 +22,10 @@ output: pdf_document
 
 **Applicable Joint Information Center Goal:** Coordinate real-time messaging through multi-agency PIO’s, governmental media and social media sources.  
 **Notes:** 
- - In this incident, it will be particularly important to counter  information.
- - Due to the global nature of this epidemic, it will be important to limit attention to Forsyth County or North Carolina
+ - In this incident, it will be particularly important to counter false or misleading information.
+ - Due to the global nature of this pandemic, it will be important to limit attention to Forsyth County, or North Carolina.
 
-![Novel Coronavirus SARS-CoV-2 Coronavirus disease 2019 - Wikipedia](https://www.flickr.com/photos/niaid/49534865371/)
+![Novel Coronavirus SARS-CoV-2 Coronavirus disease 2019 - NIAID Rocky Mountain Laboratories (RML), U.S. NIH / Public domain](https://upload.wikimedia.org/wikipedia/commons/7/78/SARS-CoV-2_49534865371.jpg)
 
 ***  
 ### Accounts to Potentially Monitor ###
