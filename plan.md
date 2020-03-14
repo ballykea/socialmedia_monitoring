@@ -46,8 +46,8 @@ output: pdf_document
 -->
 
 ### Main Hashtags (Planned Monitoring) ###
-* #covid19
-* #
+* #COVID19
+* #COVID19US
 * #
 * #coronavirus
 
