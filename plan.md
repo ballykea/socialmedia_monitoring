@@ -19,13 +19,16 @@ output: pdf_document
 * COVID-19 pandemic  
 * COVID-19 is the infectious disease caused by the most recently discovered coronavirus, SARS-CoV-2. This new virus and disease were unknown before the outbreak began in Wuhan, China, in December 2019. From a risk communications perspective, using the name SARS can have unintended consequences in terms of creating unnecessary fear for some populations, especially in Asia which was worst affected by the SARS outbreak in 2003. For that reason and others, WHO has begun referring to the virus as “the virus responsible for COVID-19” or “the COVID-19 virus” when communicating with the public. (https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/naming-the-coronavirus-disease-(covid-2019)-and-the-virus-that-causes-it)
 
+![Novel Coronavirus SARS-CoV-2 Coronavirus disease 2019 - NIAID Rocky Mountain Laboratories (RML), U.S. NIH / Public domain](https://upload.wikimedia.org/wikipedia/commons/7/78/SARS-CoV-2_49534865371.jpg)
+
+
 
 **Applicable Joint Information Center Goal:** Coordinate real-time messaging through multi-agency PIO’s, governmental media and social media sources.  
 **Notes:** 
  - In this incident, it will be particularly important to counter false or misleading information.
  - Due to the global nature of this pandemic, it will be important to limit attention to Forsyth County, or North Carolina.
 
-![Novel Coronavirus SARS-CoV-2 Coronavirus disease 2019 - NIAID Rocky Mountain Laboratories (RML), U.S. NIH / Public domain](https://upload.wikimedia.org/wikipedia/commons/7/78/SARS-CoV-2_49534865371.jpg)
+
 
 ***  
 ### Accounts to Potentially Monitor ###
