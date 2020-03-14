@@ -66,32 +66,33 @@ output: pdf_document
 
 ### Potential Monitoring Tools or Information Sources ###
 #### Specific to this event ####
-* https://www.business40nc.com/
-* http://www.partnc.org/biz40/
-* https://www.facebook.com/business40nc
-* Weekend Timeline (scroll down) with links to details from NCDOT Division 9 (via WS Chamber of Commerce) 
-https://www.winstonsalem.com/2018/11/business-40-closes-tomorrow/?fbclid=IwAR2uWpw1JQhHLoEvdRTvqA8egjwIWYhcChZY1rQQhYt5eR1gYhFT4Sjq2wY
+* https://www.who.int/emergencies/diseases/novel-coronavirus-2019
+* https://www.cdc.gov/coronavirus/2019-ncov/index.html
+* https://www.ncdhhs.gov/divisions/public-health/coronavirus-disease-2019-covid-19-response-north-carolina/nc-updates
+* https://www.forsyth.cc/PublicHealth/novel_coronavirus.aspx
 
-* https://www.business40nc.com/Documents/detour-route-exits.pdf Detour route map
-* https://tims.ncdot.gov/tims/RegionSummary.aspx?projectId=5  live traffic cams
-* Call 511 (8:15 a.m. to 7:45 p.m., weekends from 8:15 a.m. to 4:45 p.m. and state holidays from 9:15 a.m. until 4:45 p.m. to speak to a customer service representative).
-* Call NCDOT in Winston-Salem at (336) 747-7800.
-* Send an email to business40@business40nc.com
+##### Case Count #####
+* https://www.ncdhhs.gov/covid-19-case-count-nc North Carolina case count, Updated daily by 11 a.m.
+* https://ncov2019.live/  Global numbers, updated every minute
 
 #### Specific to this type event/hazard ####
 <!--
 ##### Flood #####
 ##### Power Outages #####
--->
 ##### Traffic #####
 * Waze
     + http://waze.com
     + https://twitter.com/waze
     + https://twitter.com/waze_es (Spanish language)
-    
 * DriveNC.gov https://tims.ncdot.gov/tims/
-
 * https://twitter.com/Triadroads
+-->
+##### Pandemic #####
+* https://www.who.int/
+* https://www.cdc.gov/
+* https://www.ncdhhs.gov/divisions/public-health/
+* https://www.forsyth.cc/PublicHealth/
+
 
 #### General Monitoring Tools and Information Sources ####
 * TweetDeck (https://tweetdeck.twitter.com) See helpful info at (https://dgvost.uk/2017/04/tweetdeck/) TweetDeck consists of a series of customisable columns, which can be set up to display the user's Twitter timeline, mentions, direct messages, lists, trends, favorites, search results, hashtags, or all tweets by or to a single user.
