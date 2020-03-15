@@ -24,11 +24,14 @@ output: pdf_document
 
 
 **Applicable Joint Information Center Goal:** Coordinate real-time messaging through multi-agency PIO’s, governmental media and social media sources.  
-**Notes:** 
- - In this incident, it will be particularly important to counter false or misleading information.
- - Due to the global nature of this pandemic, it will be important to limit attention to Forsyth County, or North Carolina.
-
-
+**Notes:**   
+ - Your most important audience is people who are simultaneously extremely anxious and not yet doing much.
+ - By all means keep telling us what to do. Tell us as often and as emphatically as you can. You’re likely to think you’re shouting when you sound to us like you’re whispering; you’re likely to think you’ve already said it ad nauseam when we haven’t yet taken it in.
+ - Also tell us what you will probably want us to do next, when the local situation gets a little worse. And then think very hard about whether you should tell us to do those things now. Whatever precaution is next in your phased approach to pandemic management, consider that you’re probably behind the curve (partly because of the battle between your gut feelings and your brain!). By the time it is clear that you should recommend avoiding crowded subways or clear that you should mandate cancelation of large gatherings, it will be clear that you should have done those things earlier. So consider implementing now what you suspect (and your gut knows) you will have to implement next week, when the virus will have more than doubled from where it is today.
+ - But recommending and mandating are only the technical parts of your job. A good leader also needs to acknowledge, validate, and share both halves of our pandemic ambivalence – both our gut anxiety and our cognitive resistance. Understand why so many of us will initially think you are overreacting (even if we will later think you underreacted). Help us be more at peace with our fears, but also our other reactions: the surreal mix of self-doubt, embarrassment, alienation, and misery.
+ - But be careful how you say it. “I know you’re afraid” is intrusive. Such a direct approach can trigger defensive self-doubting denial instead of determination and action. “Some people have told me they’re afraid” is better. Best: “Just about everyone in this office is feeling that knot in our stomachs, so we know a lot of other people must be feeling it too. And rightly so! This is a frightening time. Our job now, everyone’s job, is to bear what we’re feeling and take action to help protect ourselves and our communities.”
+ - Avoid false optimism. Avoid ridiculing other people’s fears. The prospects look pretty grim but actual panic is rare. Aim for the language of determination and resilience and communitarianism.
+Final words from "Strange COVID-19 Bedfellows: Gnawing Anxiety and Under-Reaction by Peter M Sandman and Jody Lanard http://psandman.com/col/Corona12.htm
 
 ***  
 ### Accounts to Potentially Monitor ###
