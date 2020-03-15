@@ -77,7 +77,6 @@ Final words from "Strange COVID-19 Bedfellows: Gnawing Anxiety and Under-Reactio
 
 ##### Case Count #####
 * https://www.ncdhhs.gov/covid-19-case-count-nc North Carolina case count, Updated daily by 11 a.m.
-* https://ncov2019.live/  Global numbers, updated every minute
 
 #### Specific to this type event/hazard ####
 <!--
@@ -107,6 +106,7 @@ Final words from "Strange COVID-19 Bedfellows: Gnawing Anxiety and Under-Reactio
 
 ##### Twitter #####
 * TweetDeck (https://tweetdeck.twitter.com) See helpful info at (https://dgvost.uk/2017/04/tweetdeck/) TweetDeck consists of a series of customisable columns, which can be set up to display the user's Twitter timeline, mentions, direct messages, lists, trends, favorites, search results, hashtags, or all tweets by or to a single user.
+* Twitter Search (https://twitter.com/explore)
 * Advanced Twitter Search (https://twitter.com/search-advanced?lang=en)
 * Twitonomy (https://www.twitonomy.com/) Twitter analytics.
 * The One Million Tweet Map (http://onemilliontweetmap.com) geo-located tweets only. The one million tweet map is a social media tool that you can use to visualize tweets and aggregated Twitter data on a world map. By using The one million tweet map you can run searches specifying a search term or a hashtag and quickly find a heatmap. It is free and you can use it to find tweets in a map.
