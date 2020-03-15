@@ -33,18 +33,20 @@ output: pdf_document
  - Avoid false optimism. Avoid ridiculing other people’s fears. The prospects look pretty grim but actual panic is rare. Aim for the language of determination and resilience and communitarianism.
 Final words from "Strange COVID-19 Bedfellows: Gnawing Anxiety and Under-Reaction" by Peter M Sandman and Jody Lanard http://psandman.com/col/Corona12.htm
 
-***  
+*** 
+
 ### Accounts to Potentially Monitor ###
 * https://twitter.com/ekendriss/lists/i-40-business-closure
-    + https://twitter.com/NCDOT_Triad
-    + https://twitter.com/PARTNC
+    
     + https://twitter.com/CityofWS
     + https://twitter.com/cityofwspolice
     + https://twitter.com/ReadyForsyth
-    + https://twitter.com/WSTABUS
-    + https://twitter.com/NCDOT
     + https://twitter.com/wschamber
     + https://twitter.com/downtownWS
+    + https://twitter.com/WSTABUS
+    + https://twitter.com/PARTNC
+    + https://twitter.com/NCDOT
+    + https://twitter.com/NCDOT_Triad
 
 * https://www.facebook.com/GOFCSONC/  Forsyth County Sheriff's Office
 * https://twitter.com/fcfd911comm  911 Communications
@@ -57,10 +59,9 @@ Final words from "Strange COVID-19 Bedfellows: Gnawing Anxiety and Under-Reactio
 * #COVID19US
 * #coronavirus
 
+<!--
 ### Additional Hashtags (Possible Monitoring) ###
-* #WSTraffic (be aware, can include non-Winston info)
-* #TrafficAlert
-
+-->
 
 <!--
 ### Additional Hashtags (Sporadic Monitoring) ###
@@ -98,16 +99,33 @@ Final words from "Strange COVID-19 Bedfellows: Gnawing Anxiety and Under-Reactio
 
 
 #### General Monitoring Tools and Information Sources ####
-* TweetDeck (https://tweetdeck.twitter.com) See helpful info at (https://dgvost.uk/2017/04/tweetdeck/) TweetDeck consists of a series of customisable columns, which can be set up to display the user's Twitter timeline, mentions, direct messages, lists, trends, favorites, search results, hashtags, or all tweets by or to a single user.
+
+##### All-Purpose Tools ######
+* HootSuite (https://hootsuite.com) Hootsuite is a platform for managing social media. The system’s user interface takes the form of a dashboard, and supports social network integrations for Twitter, Facebook, Instagram, LinkedIn, Google+, YouTube, and many more.
 * Social Searcher (https://www.social-searcher.com) Social Searcher – Free Social Media Search Engine. It allows to search for content in social networks in real-time and provides deep analytics data. Users can search without logging in for publicly posted information on Twitter, Google+, Facebook, Youtube, Instagram, Tumblr, Reddit, Flickr, Dailymotion and Vimeo. Free users can also save their searches and set up email alerts. Premium Social Monitoring features include: saving social mentions history, exporting data, API integration, advanced analytics, immediate email notifications.
+* Tagboard (https://tagboard.com) Tagboard uses hashtags to search for and collect public social media within seconds of being posted to networks like Twitter, Instagram, and Facebook
+
+##### Twitter #####
+* TweetDeck (https://tweetdeck.twitter.com) See helpful info at (https://dgvost.uk/2017/04/tweetdeck/) TweetDeck consists of a series of customisable columns, which can be set up to display the user's Twitter timeline, mentions, direct messages, lists, trends, favorites, search results, hashtags, or all tweets by or to a single user.
+* Advanced Twitter Search (https://twitter.com/search-advanced?lang=en)
+* Twitonomy (https://www.twitonomy.com/) Twitter analytics.
+* The One Million Tweet Map (http://onemilliontweetmap.com) geo-located tweets only. The one million tweet map is a social media tool that you can use to visualize tweets and aggregated Twitter data on a world map. By using The one million tweet map you can run searches specifying a search term or a hashtag and quickly find a heatmap. It is free and you can use it to find tweets in a map.
+* Twitterfall (https://twitterfall.com)Twitterfall is a web-based Twitter client where tweets fall down the screen like a waterfall. Great for presentations and big screen use.
+* Tweetreach (https://tweetreach.com) TweetReach Pro is now part of Union Metrics business plans. Monitor social posts across Twitter, Instagram and Facebook, all for the same price as before. Get comprehensive, real-time analytics on reach, performance and engagement, and continuously analyze all posts about the topics you care about, displaying your results in eye-catching charts and digestible reports.
+
+
+###### Facebook #####
 * Facebook Search (https://www.facebook.com/search/all/) 
 * Facebook Live Map (https://www.facebook.com/livemap/) The Facebook Live Map is a simple grey map with blue pins indicating where live streams are taking place.
-* Tweetreach (https://tweetreach.com) TweetReach Pro is now part of Union Metrics business plans. Monitor social posts across Twitter, Instagram and Facebook, all for the same price as before. Get comprehensive, real-time analytics on reach, performance and engagement, and continuously analyze all posts about the topics you care about, displaying your results in eye-catching charts and digestible reports. 
-* Tagboard (https://tagboard.com) Tagboard uses hashtags to search for and collect public social media within seconds of being posted to networks like Twitter, Instagram, and Facebook
-* Twitterfall (https://twitterfall.com)Twitterfall is a web-based Twitter client where tweets fall down the screen like a waterfall. Great for presentations and big screen use.
-* HootSuite (https://hootsuite.com) Hootsuite is a platform for managing social media. The system’s user interface takes the form of a dashboard, and supports social network integrations for Twitter, Facebook, Instagram, LinkedIn, Google+, YouTube, and many more.
-* Advanced Twitter Search (https://twitter.com/search-advanced?lang=en)
-* The One Million Tweet Map (http://onemilliontweetmap.com) geo-located tweets only. The one million tweet map is a social media tool that you can use to visualize tweets and aggregated Twitter data on a world map. By using The one million tweet map you can run searches specifying a search term or a hashtag and quickly find a heatmap. It is free and you can use it to find tweets in a map.
+
+##### Instagram #####
+* GramFind (http://gramfind.com/) GramFind is an Instagram Search Engine.
+ 
+
+
+
+
+
 
 Monitoring tools listed somewhat in order of use priority. Others may assign different priority than the author of this document.  
 
