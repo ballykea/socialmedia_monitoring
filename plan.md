@@ -34,6 +34,7 @@ output: pdf_document
  - But recommending and mandating are only the technical parts of your job. A good leader also needs to acknowledge, validate, and share both halves of our pandemic ambivalence – both our gut anxiety and our cognitive resistance. Understand why so many of us will initially think you are overreacting (even if we will later think you underreacted). Help us be more at peace with our fears, but also our other reactions: the surreal mix of self-doubt, embarrassment, alienation, and misery.
  - But be careful how you say it. “I know you’re afraid” is intrusive. Such a direct approach can trigger defensive self-doubting denial instead of determination and action. “Some people have told me they’re afraid” is better. Best: “Just about everyone in this office is feeling that knot in our stomachs, so we know a lot of other people must be feeling it too. And rightly so! This is a frightening time. Our job now, everyone’s job, is to bear what we’re feeling and take action to help protect ourselves and our communities.”
  - Avoid false optimism. Avoid ridiculing other people’s fears. The prospects look pretty grim but actual panic is rare. Aim for the language of determination and resilience and communitarianism.
+
 Final words from "Strange COVID-19 Bedfellows: Gnawing Anxiety and Under-Reaction" by Peter M Sandman and Jody Lanard http://psandman.com/col/Corona12.htm
 
 *** 
