@@ -42,6 +42,7 @@ Final words from "Strange COVID-19 Bedfellows: Gnawing Anxiety and Under-Reactio
 *** 
 
 ### Accounts to Potentially Monitor ###
+* https://twitter.com/ekendriss/lists/i-40-business-closure
     + https://www.facebook.com/FCDPH/
     + https://twitter.com/ForsythCountyNC
     + https://twitter.com/CityofWS
