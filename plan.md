@@ -24,9 +24,10 @@ output: pdf_document
 * Center of Event Monitoring: Winston-Salem/Forsyth County, North Carolina, geocode:36.096260,-80.243736
 
 ---
-**Applicable Incident Action Plan<!--Emergency Operations Center/Multi-Agency Coordination Center/Joint Information Center-->  Goals:** 
+**Applicable Incident Action Plan/Crisis and Risk Communication Plan<!--Emergency Operations Center/Multi-Agency Coordination Center/Joint Information Center-->  Goals:** 
 * Monitor the public concern by managing information and providing timely messaging to the public and media. 
 * Plan for the next phase of the response including widespread mitigation strategies.
+* In addition to the information released through the media, the Forsyth County public webpage and FCDPH social media channels will be used as secondary sources to disseminate information and recommendations to the public. The FCDPH website and social media pages will need to be updated regularly and information should be distributed on a timely basis to community partners who can also post information on their webpages and social media channels.
 
 **Notes:**   
  - Your most important audience is people who are simultaneously extremely anxious and not yet doing much.
@@ -41,8 +42,8 @@ Final words from "Strange COVID-19 Bedfellows: Gnawing Anxiety and Under-Reactio
 *** 
 
 ### Accounts to Potentially Monitor ###
-* https://twitter.com/ekendriss/lists/i-40-business-closure
-    
+    + https://www.facebook.com/FCDPH/
+    + https://twitter.com/ForsythCountyNC
     + https://twitter.com/CityofWS
     + https://twitter.com/cityofwspolice
     + https://twitter.com/ReadyForsyth
@@ -60,7 +61,7 @@ Final words from "Strange COVID-19 Bedfellows: Gnawing Anxiety and Under-Reactio
 -->
 
 ### Search terms on Twitter (Planned Monitoring) ###
-* #covid #COVID OR #COVID19 OR #COVID19US OR #coronavirus OR #SARS2 AND #NC OR #Winston OR #Forsyth lang:en -RT
+* #covid #COVID OR #COVID19 OR #COVID19US OR #coronavirus OR #SARS2 AND #NC OR #Winston OR #Forsyth lang:en -RT geocode:36.096260,-80.243736,20km
 * #COVID19
 * #COVID19US
 * #coronavirus
