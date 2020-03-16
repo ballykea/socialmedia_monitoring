@@ -1,7 +1,7 @@
 ---
-title: "COVID-19 Monitoring Plan"
+title: "COVID-19 Social Media Monitoring Plan"
 author: Kay Endriss, Incident Management Team Intelligence Officer
-date: "March 12, 2020"
+date: "March 16, 2020"
 output: pdf_document 
     theme: cosmo
 ---
@@ -21,6 +21,7 @@ output: pdf_document
 
 ![Novel Coronavirus SARS-CoV-2 Coronavirus disease 2019 - NIAID Rocky Mountain Laboratories (RML), U.S. NIH / Public domain](https://upload.wikimedia.org/wikipedia/commons/7/78/SARS-CoV-2_49534865371.jpg)
 
+* Center of Event Monitoring: Winston-Salem/Forsyth County, North Carolina, geocode:36.096260,-80.243736
 
 ---
 **Applicable Incident Action Plan<!--Emergency Operations Center/Multi-Agency Coordination Center/Joint Information Center-->  Goals:** 
@@ -58,7 +59,8 @@ Final words from "Strange COVID-19 Bedfellows: Gnawing Anxiety and Under-Reactio
 ### Websites and Additional Information ###
 -->
 
-### Main Hashtags (Planned Monitoring) ###
+### Search terms on Twitter (Planned Monitoring) ###
+* #covid #COVID OR #COVID19 OR #COVID19US OR #coronavirus OR #SARS2 AND #NC OR #Winston OR #Forsyth lang:en -RT
 * #COVID19
 * #COVID19US
 * #coronavirus
