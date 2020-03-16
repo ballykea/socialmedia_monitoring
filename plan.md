@@ -78,10 +78,10 @@ Final words from "Strange COVID-19 Bedfellows: Gnawing Anxiety and Under-Reactio
 ### Potential Monitoring Tools or Information Sources ###
 
 #### Information Sources Specific to this event ####
-* https://www.who.int/emergencies/diseases/novel-coronavirus-2019
-* https://www.cdc.gov/coronavirus/2019-ncov/index.html
-* https://www.ncdhhs.gov/divisions/public-health/coronavirus-disease-2019-covid-19-response-north-carolina/nc-updates
-* https://www.forsyth.cc/PublicHealth/novel_coronavirus.aspx
+* https://www.who.int/emergencies/diseases/novel-coronavirus-2019 World Health Organization, COVID-19 Info
+* https://www.cdc.gov/coronavirus/2019-ncov/index.html US Centers for Disease Control and Prevention, COVID-19 Info
+* https://www.ncdhhs.gov/divisions/public-health/coronavirus-disease-2019-covid-19-response-north-carolina/nc-updates North Carolina Department of Health and Human Services, Public Health, COVID-19 Info
+* https://www.forsyth.cc/PublicHealth/novel_coronavirus.aspx Forsyth County Department of Public Health, COVID-19 Info
 
 ##### Case Count #####
 * https://www.ncdhhs.gov/covid-19-case-count-nc North Carolina case count, Updated daily by 11 a.m.
@@ -99,10 +99,10 @@ Final words from "Strange COVID-19 Bedfellows: Gnawing Anxiety and Under-Reactio
 * https://twitter.com/Triadroads
 -->
 ##### Pandemic #####
-* https://www.who.int/
-* https://www.cdc.gov/
-* https://www.ncdhhs.gov/divisions/public-health/
-* https://www.forsyth.cc/PublicHealth/
+* https://www.who.int/ World Health Organization
+* https://www.cdc.gov/ US Centers for Disease Control and Prevention
+* https://www.ncdhhs.gov/divisions/public-health/ North Carolina Department of Health and Human Services, Public Health
+* https://www.forsyth.cc/PublicHealth/ Forsyth County Department of Public Health
 
 
 #### General Monitoring Tools ####
