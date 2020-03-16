@@ -43,19 +43,19 @@ Final words from "Strange COVID-19 Bedfellows: Gnawing Anxiety and Under-Reactio
 
 ### Accounts to Potentially Monitor ###
 * Facebook or Twitter
-    + https://www.facebook.com/FCDPH/
-    + https://twitter.com/ForsythCountyNC
-    + https://twitter.com/CityofWS
-    + https://twitter.com/cityofwspolice
-    + https://twitter.com/ReadyForsyth
-    + https://twitter.com/wschamber
-    + https://twitter.com/downtownWS
-    + https://twitter.com/WSTABUS
-    + https://twitter.com/PARTNC
-    + https://twitter.com/NCDOT
-    + https://twitter.com/NCDOT_Triad
+    + https://www.facebook.com/FCDPH/  Forsyth County Department of Health on Facebook
+    + https://twitter.com/ForsythCountyNC Forsyth County Government on Twitter
+    + https://twitter.com/CityofWS City of Winston Salem on Twitter
+    + https://twitter.com/cityofwspolice City of Winston Salem Police Department on Twitter
+    + https://twitter.com/ReadyForsyth ReadyForsyth on Twitter
+    + https://twitter.com/wschamber City of Winston Salem Chamber of Commerce on Twitter
+    + https://twitter.com/downtownWS Downtown Winston Salem on Twitter
+    + https://twitter.com/WSTABUS City of Winston Salem Transit Authority (Bus) on Twitter
+    + https://twitter.com/PARTNC Piedmont Area Regional Transit NC (Bus) on Twitter
+    + https://twitter.com/NCDOT North Carolina Department of Transportation on Twitter
+    + https://twitter.com/NCDOT_Triad North Carolina Department of Transportation Triad Area on Twitter
     + https://www.facebook.com/GOFCSONC/  Forsyth County Sheriff's Office
-    + https://twitter.com/fcfd911comm  911 Communications
+    + https://twitter.com/fcfd911comm  Forsyth County 911 Communications
 <!--
 ### Websites and Additional Information ###
 -->
