@@ -23,7 +23,7 @@ output: pdf_document
 
 
 
-**Applicable Joint Information Center Goal:** Coordinate real-time messaging through multi-agency PIO’s, governmental media and social media sources.  
+**Applicable Incident Action Plan<!--Emergency Operations Center/Multi-Agency Coordination Center/Joint Information Center-->  Goal:** Monitor the public concern by managing information and providing timely messaging to the public and media. 
 **Notes:**   
  - Your most important audience is people who are simultaneously extremely anxious and not yet doing much.
  - By all means keep telling us what to do. Tell us as often and as emphatically as you can. You’re likely to think you’re shouting when you sound to us like you’re whispering; you’re likely to think you’ve already said it ad nauseam when we haven’t yet taken it in.
