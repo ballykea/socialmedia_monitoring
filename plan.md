@@ -16,14 +16,17 @@ output: pdf_document
 ###### ― Joanne Harris, Runemarks-->
 
 ## Event to be Monitored ##
-* COVID-19 pandemic  
+* COVID-19 pandemic disease  
 * COVID-19 is the infectious disease caused by the most recently discovered coronavirus, SARS-CoV-2. This new virus and disease were unknown before the outbreak began in Wuhan, China, in December 2019. From a risk communications perspective, using the name SARS can have unintended consequences in terms of creating unnecessary fear for some populations, especially in Asia which was worst affected by the SARS outbreak in 2003. For that reason and others, WHO has begun referring to the virus as “the virus responsible for COVID-19” or “the COVID-19 virus” when communicating with the public. (https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/naming-the-coronavirus-disease-(covid-2019)-and-the-virus-that-causes-it)
 
 ![Novel Coronavirus SARS-CoV-2 Coronavirus disease 2019 - NIAID Rocky Mountain Laboratories (RML), U.S. NIH / Public domain](https://upload.wikimedia.org/wikipedia/commons/7/78/SARS-CoV-2_49534865371.jpg)
 
 
+---
+**Applicable Incident Action Plan<!--Emergency Operations Center/Multi-Agency Coordination Center/Joint Information Center-->  Goals:** 
+* Monitor the public concern by managing information and providing timely messaging to the public and media. 
+* Plan for the next phase of the response including widespread mitigation strategies.
 
-**Applicable Incident Action Plan<!--Emergency Operations Center/Multi-Agency Coordination Center/Joint Information Center-->  Goal:** Monitor the public concern by managing information and providing timely messaging to the public and media. 
 **Notes:**   
  - Your most important audience is people who are simultaneously extremely anxious and not yet doing much.
  - By all means keep telling us what to do. Tell us as often and as emphatically as you can. You’re likely to think you’re shouting when you sound to us like you’re whispering; you’re likely to think you’ve already said it ad nauseam when we haven’t yet taken it in.
