@@ -110,8 +110,6 @@ Final words from "Strange COVID-19 Bedfellows: Gnawing Anxiety and Under-Reactio
 ##### All-Purpose Tools ######
 * HootSuite (https://hootsuite.com) Hootsuite is a platform for managing social media. The system’s user interface takes the form of a dashboard, and supports social network integrations for Twitter, Facebook, Instagram, LinkedIn, Google+, YouTube, and many more.
 * TweetDeck (https://tweetdeck.twitter.com) TweetDeck consists of a series of customisable columns, which can be set up to display the user's Twitter timeline, mentions, direct messages, lists, trends, favorites, search results, hashtags, or all tweets by or to a single user.
-* Social Searcher (https://www.social-searcher.com) Social Searcher – Free Social Media Search Engine. It allows to search for content in social networks in real-time and provides deep analytics data. Users can search without logging in for publicly posted information on Twitter, Google+, Facebook, Youtube, Instagram, Tumblr, Reddit, Flickr, Dailymotion and Vimeo. Free users can also save their searches and set up email alerts. Premium Social Monitoring features include: saving social mentions history, exporting data, API integration, advanced analytics, immediate email notifications.
-* Tagboard (https://tagboard.com) Tagboard uses hashtags to search for and collect public social media within seconds of being posted to networks like Twitter, Instagram, and Facebook
 
 ##### Twitter #####
 * Twitter Search (https://twitter.com/explore)
