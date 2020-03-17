@@ -49,6 +49,8 @@ Final words from "Strange COVID-19 Bedfellows: Gnawing Anxiety and Under-Reactio
     + https://twitter.com/CityofWS City of Winston Salem on Twitter
     + https://twitter.com/cityofwspolice City of Winston Salem Police Department on Twitter
     + https://twitter.com/ReadyForsyth ReadyForsyth on Twitter
+    + https://www.facebook.com/GOFCSONC/  Forsyth County Sheriff's Office
+    + https://twitter.com/fcfd911comm  Forsyth County 911 Communications
 <!--    
     + https://twitter.com/wschamber City of Winston Salem Chamber of Commerce on Twitter
     + https://twitter.com/downtownWS Downtown Winston Salem on Twitter
@@ -57,8 +59,7 @@ Final words from "Strange COVID-19 Bedfellows: Gnawing Anxiety and Under-Reactio
     + https://twitter.com/NCDOT North Carolina Department of Transportation on Twitter
     + https://twitter.com/NCDOT_Triad North Carolina Department of Transportation Triad Area on Twitter
 -->
-    + https://www.facebook.com/GOFCSONC/  Forsyth County Sheriff's Office
-    + https://twitter.com/fcfd911comm  Forsyth County 911 Communications
+
 <!--
 ### Websites and Additional Information ###
 -->
