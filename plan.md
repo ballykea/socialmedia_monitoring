@@ -21,9 +21,10 @@ output: pdf_document
 
 ![Novel Coronavirus SARS-CoV-2 Coronavirus disease 2019 - NIAID Rocky Mountain Laboratories (RML), U.S. NIH / Public domain](https://upload.wikimedia.org/wikipedia/commons/7/78/SARS-CoV-2_49534865371.jpg)
 
-* Center of Event Monitoring: Winston-Salem/Forsyth County, North Carolina, geocode:36.096260,-80.243736
-
 ---
+
+**Center of Event Monitoring:** Winston-Salem/Forsyth County, North Carolina, geocode:36.096260,-80.243736
+
 **Applicable Incident Action Plan/Crisis and Risk Communication Plan<!--Emergency Operations Center/Multi-Agency Coordination Center/Joint Information Center-->  Goals:** 
 * Monitor the public concern by managing information and providing timely messaging to the public and media. 
 * Plan for the next phase of the response including widespread mitigation strategies.
@@ -103,10 +104,6 @@ Final words from "Strange COVID-19 Bedfellows: Gnawing Anxiety and Under-Reactio
 * https://www.cdc.gov/ US Centers for Disease Control and Prevention
 * https://www.ncdhhs.gov/divisions/public-health/ North Carolina Department of Health and Human Services, Public Health
 * https://www.forsyth.cc/PublicHealth/ Forsyth County Department of Public Health
-
-
-
-
 
 #### General Monitoring Tools ####
 
