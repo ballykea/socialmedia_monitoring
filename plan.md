@@ -85,7 +85,7 @@ Final words from "Strange COVID-19 Bedfellows: Gnawing Anxiety and Under-Reactio
 * https://www.forsyth.cc/PublicHealth/novel_coronavirus.aspx Forsyth County Department of Public Health, COVID-19 Info
 
 ##### North Carolina Case Count #####
-* https://www.ncdhhs.gov/covid-19-case-count-nc North Carolina case count, Updated daily by 11 a.m.
+* https://www.ncdhhs.gov/covid-19-case-count-nc North Carolina case count, Updated daily by 11 a.m. EDT
 
 #### Information Sources Specific to this type event/hazard ####
 <!--
