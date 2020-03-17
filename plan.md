@@ -120,8 +120,7 @@ Final words from "Strange COVID-19 Bedfellows: Gnawing Anxiety and Under-Reactio
 * Tweetreach (https://tweetreach.com) TweetReach Pro is now part of Union Metrics business plans. Monitor social posts across Twitter, Instagram and Facebook, all for the same price as before. Get comprehensive, real-time analytics on reach, performance and engagement, and continuously analyze all posts about the topics you care about, displaying your results in eye-catching charts and digestible reports.
 
 ###### Facebook #####
-* Facebook Search (https://www.facebook.com/search/all/) 
-* Facebook Live Map (https://www.facebook.com/livemap/) The Facebook Live Map is a simple grey map with blue pins indicating where live streams are taking place.
+* Facebook Search (https://www.facebook.com/search/all/) must sign in to Facebook
 
 ##### Instagram #####
 * GramFind (http://gramfind.com/) GramFind is an Instagram Search Engine.
