@@ -117,10 +117,9 @@ Final words from "Strange COVID-19 Bedfellows: Gnawing Anxiety and Under-Reactio
 * Twitonomy (https://www.twitonomy.com/) Twitter analytics. Paid version has some nice analytics that can be helpful, but there is some use in the free version.
 * The One Million Tweet Map (http://onemilliontweetmap.com) geo-located tweets only. The one million tweet map is a social media tool that you can use to visualize tweets and aggregated Twitter data on a world map. By using The one million tweet map you can run searches specifying a search term or a hashtag and quickly find a heatmap. It is free and you can use it to find tweets in a map.
 * Twitterfall (https://twitterfall.com)Twitterfall is a web-based Twitter client where tweets fall down the screen like a waterfall. Great for presentations and big screen use.
-* Tweetreach (https://tweetreach.com) TweetReach Pro is now part of Union Metrics business plans. Monitor social posts across Twitter, Instagram and Facebook, all for the same price as before. Get comprehensive, real-time analytics on reach, performance and engagement, and continuously analyze all posts about the topics you care about, displaying your results in eye-catching charts and digestible reports.
 
 ###### Facebook #####
-* Facebook Search (https://www.facebook.com/search/all/) must sign in to Facebook
+* Facebook Search (https://www.facebook.com/search/all/) must be signed in to Facebook
 
 ##### Instagram #####
 * GramFind (http://gramfind.com/) GramFind is an Instagram Search Engine.
