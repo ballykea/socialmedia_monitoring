@@ -83,7 +83,7 @@ Final words from "Strange COVID-19 Bedfellows: Gnawing Anxiety and Under-Reactio
 * https://www.ncdhhs.gov/divisions/public-health/coronavirus-disease-2019-covid-19-response-north-carolina/nc-updates North Carolina Department of Health and Human Services, Public Health, COVID-19 Info
 * https://www.forsyth.cc/PublicHealth/novel_coronavirus.aspx Forsyth County Department of Public Health, COVID-19 Info
 
-##### Case Count #####
+##### North Carolina Case Count #####
 * https://www.ncdhhs.gov/covid-19-case-count-nc North Carolina case count, Updated daily by 11 a.m.
 
 #### Information Sources Specific to this type event/hazard ####
@@ -114,11 +114,10 @@ Final words from "Strange COVID-19 Bedfellows: Gnawing Anxiety and Under-Reactio
 ##### Twitter #####
 * Twitter Search (https://twitter.com/explore)
 * Advanced Twitter Search (https://twitter.com/search-advanced?lang=en)
-* Twitonomy (https://www.twitonomy.com/) Twitter analytics. 
+* Twitonomy (https://www.twitonomy.com/) Twitter analytics. Paid version has some nice analytics that can be helpful, but there is some use in the free version.
 * The One Million Tweet Map (http://onemilliontweetmap.com) geo-located tweets only. The one million tweet map is a social media tool that you can use to visualize tweets and aggregated Twitter data on a world map. By using The one million tweet map you can run searches specifying a search term or a hashtag and quickly find a heatmap. It is free and you can use it to find tweets in a map.
 * Twitterfall (https://twitterfall.com)Twitterfall is a web-based Twitter client where tweets fall down the screen like a waterfall. Great for presentations and big screen use.
 * Tweetreach (https://tweetreach.com) TweetReach Pro is now part of Union Metrics business plans. Monitor social posts across Twitter, Instagram and Facebook, all for the same price as before. Get comprehensive, real-time analytics on reach, performance and engagement, and continuously analyze all posts about the topics you care about, displaying your results in eye-catching charts and digestible reports.
-
 
 ###### Facebook #####
 * Facebook Search (https://www.facebook.com/search/all/) 
@@ -134,8 +133,8 @@ Note: Monitoring tools listed somewhat in order of use priority. Others may assi
 #### Data Output ####
 ##### For EOC #####
 * Share via WebEOC
-##### Public Information #####
-* Share via official accounts as possible. Some to consider if have access:
+##### For Public Information #####
+* Share via official accounts as appropriate. Some to consider if have access:
     + https://www.facebook.com/ReadyFORSYTH/
     + https://twitter.com/ReadyForsyth
     + http://www.readyforsyth.org
