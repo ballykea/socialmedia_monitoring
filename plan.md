@@ -61,7 +61,7 @@ Final words from "Strange COVID-19 Bedfellows: Gnawing Anxiety and Under-Reactio
 -->
 
 ### Search terms on Twitter (Planned Monitoring) ###
-* #COVID OR #COVID19 OR #COVID19US OR #coronavirus OR #SARS2 or #SARSCoV2 lang:en -RT geocode:36.096260,-80.243736,30km
+* #COVID OR #COVID19 OR #COVID19US OR #coronavirus OR #SARS2 OR #SARSCoV2 lang:en -RT geocode:36.096260,-80.243736,30km
 * #COVID19
 * #COVID19US
 * #coronavirus
