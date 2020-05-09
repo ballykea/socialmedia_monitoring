@@ -84,6 +84,9 @@ Final words from "Strange COVID-19 Bedfellows: Gnawing Anxiety and Under-Reactio
 * https://www.ncdhhs.gov/divisions/public-health/coronavirus-disease-2019-covid-19-response-north-carolina/nc-updates North Carolina Department of Health and Human Services, Public Health, COVID-19 Info
 * https://www.forsyth.cc/PublicHealth/novel_coronavirus.aspx Forsyth County Department of Public Health, COVID-19 Info
 
+* https://allianceforscience.cornell.edu/blog/2020/04/covid-top-10-current-conspiracy-theories/
+* https://www.fema.gov/coronavirus/rumor-control
+
 ##### North Carolina Case Count #####
 * https://www.ncdhhs.gov/covid-19-case-count-nc North Carolina case count, Updated daily by 11 a.m. EDT
 
@@ -125,6 +128,9 @@ Final words from "Strange COVID-19 Bedfellows: Gnawing Anxiety and Under-Reactio
 * GramFind (http://gramfind.com/) GramFind is an Instagram Search Engine.
  
 Note: Monitoring tools listed somewhat in order of use priority. Others may assign different priority than the author of this document.  
+
+##### Rumor Control/Conspiracy Theory #####
+* The Conspiracy Theory Handbook (https://www.climatechangecommunication.org/wp-content/uploads/2020/03/ConspiracyTheoryHandbook.pdf)
 
 ***
 
