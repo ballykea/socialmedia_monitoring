@@ -133,6 +133,7 @@ Note: Monitoring tools listed somewhat in order of use priority. Others may assi
 ##### Rumor Control/Conspiracy Theory/Varied Response to Dangers #####
 * The Conspiracy Theory Handbook (https://www.climatechangecommunication.org/wp-content/uploads/2020/03/ConspiracyTheoryHandbook.pdf)
 * https://geneticliteracyproject.org/2020/06/29/5-factors-explaining-why-there-are-such-vast-differences-in-how-each-of-us-responds-to-dangers-posed-by-covid-19/
+* https://www.rand.org/research/projects/truth-decay/fighting-disinformation.html
 
 ***
 
