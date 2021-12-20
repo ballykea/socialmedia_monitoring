@@ -32,20 +32,28 @@ output: pdf_document
 **Applicable Multi-Agency Coordination Center Goal:** Coordinate real-time messaging through multi-agency PIO’s, governmental media and social media sources.  
 **Note:** In this incident, it will be particularly important to monitor citizen responses to official information.
 
-![Bye Bye Business 40](https://pbs.twimg.com/media/DsD0nFvWoAA_IrL.jpg:large)
 
 ***  
 ### Accounts to Potentially Monitor ###
-* Twitter List 2022-02-23_TTX_Asteroid https://twitter.com/i/lists/1463269643091599371
-    + https://twitter.com/NCDOT_Triad
-    + https://twitter.com/PARTNC
-    + https://twitter.com/CityofWS
-    + https://twitter.com/cityofwspolice
+* Twitter List created by Kay Endriss: 2022-02-23_TTX_Asteroid https://twitter.com/i/lists/1463269643091599371
+    + https://twitter.com/ussfspoc
+    + https://twitter.com/US_SpaceCom
+    + https://twitter.com/USSF_SSC
+    + https://twitter.com/ForsythCERT
+    + https://twitter.com/ENERGY
     + https://twitter.com/ReadyForsyth
-    + https://twitter.com/WSTABUS
-    + https://twitter.com/NCDOT
-    + https://twitter.com/wschamber
-    + https://twitter.com/downtownWS
+    + https://twitter.com/DeptofDefense
+    + https://twitter.com/AsteroidWatch
+    + https://twitter.com/JHUAPL
+    + https://twitter.com/NASAJPL
+    + https://twitter.com/femaregion4
+    + https://twitter.com/USNorthernCmd
+    + https://twitter.com/NASAAmes
+    + https://twitter.com/NASA
+    + https://twitter.com/StateDept
+
+* Twitter List created by NASA Small Bodies Node: IAWN-asteroids https://twitter.com/i/lists/1241016250966388736
+* Twitter List created by NASA Small Bodies Node: IAWN-signatories https://twitter.com/i/lists/1241019801130143744
 
 * https://www.facebook.com/GOFCSONC/  Forsyth County Sheriff's Office
 * https://twitter.com/fcfd911comm  911 Communications
@@ -58,6 +66,7 @@ output: pdf_document
 * #CNEOS
 * #EyesOnAsteroids
 * #DARTMission
+* #asteroid
 
 ### Additional Hashtags (Possible Monitoring) ###
 * #HERAMission
@@ -80,10 +89,12 @@ output: pdf_document
 + DART ============= Double Asteroid Redirection Test
 + DoD ============== United States Department of Defense
 + FEMA ============= Federal Emergency Management Agency
++ IAWN ============= International Asteroid Warning Network
 + JPL ============== Jet Propulsion Laboratory is a federally funded research and development center and NASA field center in Pasadena CA
 + NASA ============= National Aeronautics and Space Administration
 + NEO ============== Near-Earth Objects
 + PDCO ============= NASA Planetary Defense Coordination Office
++ SBN ============== NASA Small Bodies Node
 + TTX ============== Tabletop Exercise
 + USNORTHCOM ======= United States Northern Command is one of eleven unified combatant commands of the United States Department of Defense; headquartered in Colorado Springs, CO
 + USSF ============= United States Space Force is the space service branch of the U.S. Armed Forces, one of the eight U.S. uniformed services, and the world's first and currently only independent space force; headquartered in the Pentagon, Arlington VA
@@ -107,7 +118,6 @@ https://www.winstonsalem.com/2018/11/business-40-closes-tomorrow/?fbclid=IwAR2uW
 <!--
 ##### Flood #####
 ##### Power Outages #####
--->
 ##### Traffic #####
 * Waze
     + http://waze.com
@@ -117,6 +127,8 @@ https://www.winstonsalem.com/2018/11/business-40-closes-tomorrow/?fbclid=IwAR2uW
 * DriveNC.gov https://tims.ncdot.gov/tims/
 
 * https://twitter.com/Triadroads
+-->
+##### Near-Earth Object (Asteroid) #####
 
 #### General Monitoring Tools and Information Sources ####
 * TweetDeck (https://tweetdeck.twitter.com) See helpful info at (https://dgvost.uk/2017/04/tweetdeck/) TweetDeck consists of a series of customisable columns, which can be set up to display the user's Twitter timeline, mentions, direct messages, lists, trends, favorites, search results, hashtags, or all tweets by or to a single user.
