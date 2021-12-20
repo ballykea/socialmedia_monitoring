@@ -1,7 +1,7 @@
 ---
 title: "Social Media Monitoring Plan"
 author: Kay Endriss, Incident Management Team Intelligence Officer
-date: "November 17, 2018"
+date: "February 23, 2022"
 output: pdf_document 
     theme: cosmo
 ---
@@ -16,9 +16,19 @@ output: pdf_document
 ###### ― Joanne Harris, Runemarks-->
 
 ## Event to be Monitored ##
-* I-40 Business Closure - The 1.2-mile section of Business 40 (Exits 5A to 6A; MM 5.0 to 6.0 both directions) between Peters Creek Parkway and US 52 in Winston-Salem will close Saturday, Nov. 17, at 6 a.m. https://tims.ncdot.gov/TIMS/IncidentDetail.aspx?id=551037  
-When Business 40 reopens, it will provide a better driving experience with wider lanes, longer access and exit ramps, higher bridges, an increased speed limit, a modern look and a new name – Salem Parkway/US 421.
+* 4th Planetary Defense Interagency Tabletop Exercise. The NASA Planetary Defense Coordination Office (PDCO), in partnership with the FEMA Response Directorate, will hold a 1.5-day tabletop exercise (TTX) with senior officials to exercise governmental response to a hypothetical asteroid impact threat and assess national preparedness. The TTX will be Wednesday, February 23 & Thursday, February 24, 2022. Players can participate in-person in Laurel, MD or remotely.
 
+**TTX objectives:** Exercise the National Near-Earth Objects (NEO) Preparedness Strategy and Action Plan to
+    + Increase the understanding of personnel and US-government institutions of NEO threats and their roles in mitigating that threat.
+    + Gain high-level participation from all institutions, including USSF and USSPACECOM.
+    + Test methods of communication information both to and among decision makers.
+    + Exercise post-impact protocols, including involvement of local government.
+    
+**TTX Exercise Coordinator**   
+* Leviticus A. "L.A." Lewis *
+* email1: leviticus.a.lewis@nasa.gov *
+* email2: PD-TTX@jhuapl.edu *
+    
 **Applicable Multi-Agency Coordination Center Goal:** Coordinate real-time messaging through multi-agency PIO’s, governmental media and social media sources.  
 **Note:** In this incident, it will be particularly important to monitor citizen responses to official information.
 
@@ -26,7 +36,7 @@ When Business 40 reopens, it will provide a better driving experience with wider
 
 ***  
 ### Accounts to Potentially Monitor ###
-* https://twitter.com/ekendriss/lists/i-40-business-closure
+* Twitter List 2022-02-23_TTX_Asteroid https://twitter.com/i/lists/1463269643091599371
     + https://twitter.com/NCDOT_Triad
     + https://twitter.com/PARTNC
     + https://twitter.com/CityofWS
@@ -44,18 +54,15 @@ When Business 40 reopens, it will provide a better driving experience with wider
 -->
 
 ### Main Hashtags (Planned Monitoring) ###
-* #biz40nc
-* #biz40
-* #business40
-* #Triadroads
+* #PlanetaryDefense
+* #CNEOS
+* #EyesOnAsteroids
+* #DARTMission
 
 ### Additional Hashtags (Possible Monitoring) ###
-* #WSTraffic (be aware, can include non-Winston info)
-* #TrafficAlert
-* #DriveSafely
-* #TriadTraffic
-* #WinstonSalem
-* #WSNC
+* #HERAMission
+* #NEO (Note can include lots of irrelevant tweets)
+* 
 
 <!--
 ### Additional Hashtags (Sporadic Monitoring) ###
@@ -64,6 +71,26 @@ When Business 40 reopens, it will provide a better driving experience with wider
 
 ### Potential Monitoring Tools or Information Sources ###
 #### Specific to this event ####
+
+##### ACRONYMS #####
++ APL ============== Johns Hopkins University Applied Physics Laboratory is a not-for-profit university-affiliated research center in Howard County MD
++ ATAP ============= Asteroid Threat Assessment Project
++ CNEOS ============ Center for Near-Earth Object Studies
++ CONUS ============ Contiguous United States
++ DART ============= Double Asteroid Redirection Test
++ DoD ============== United States Department of Defense
++ FEMA ============= Federal Emergency Management Agency
++ JPL ============== Jet Propulsion Laboratory is a federally funded research and development center and NASA field center in Pasadena CA
++ NASA ============= National Aeronautics and Space Administration
++ NEO ============== Near-Earth Objects
++ PDCO ============= NASA Planetary Defense Coordination Office
++ TTX ============== Tabletop Exercise
++ USNORTHCOM ======= United States Northern Command is one of eleven unified combatant commands of the United States Department of Defense; headquartered in Colorado Springs, CO
++ USSF ============= United States Space Force is the space service branch of the U.S. Armed Forces, one of the eight U.S. uniformed services, and the world's first and currently only independent space force; headquartered in the Pentagon, Arlington VA
++ USSPACECOM ======= United States Space Command is a unified combatant command of the United States Department of Defense, responsible for military operations in outer space, specifically all operations 100 kilometers above mean sea level; headquartered in Peterson Space Force Base, CO
++ White House EOP == Executive Office of the President
+
+
 * https://www.business40nc.com/
 * http://www.partnc.org/biz40/
 * https://www.facebook.com/business40nc
