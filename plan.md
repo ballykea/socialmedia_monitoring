@@ -51,6 +51,8 @@ output: pdf_document
     + https://twitter.com/NASAAmes
     + https://twitter.com/NASA
     + https://twitter.com/StateDept
+    + https://twitter.com/UN_SPIDER
+    + https://twitter.com/UNOOSA
 
 * Twitter List created by NASA Small Bodies Node: IAWN-asteroids https://twitter.com/i/lists/1241016250966388736
 * Twitter List created by NASA Small Bodies Node: IAWN-signatories https://twitter.com/i/lists/1241019801130143744
@@ -88,14 +90,19 @@ output: pdf_document
 + CONUS ============ Contiguous United States
 + DART ============= Double Asteroid Redirection Test
 + DoD ============== United States Department of Defense
++ ESA ============== European Space Agency
 + FEMA ============= Federal Emergency Management Agency
 + IAWN ============= International Asteroid Warning Network
 + JPL ============== Jet Propulsion Laboratory is a federally funded research and development center and NASA field center in Pasadena CA
 + NASA ============= National Aeronautics and Space Administration
++ NASA Ames ======== NASA's Ames Research Center, one of ten NASA field centers, is located in the heart of California's Silicon Valley. 
 + NEO ============== Near-Earth Objects
 + PDCO ============= NASA Planetary Defense Coordination Office
 + SBN ============== NASA Small Bodies Node
++ SMPAG ============ Space Mission Planning Advisory Group
 + TTX ============== Tabletop Exercise
++ UNOOSA =========== United Nations Office for Outer Space Affairs; headquartered in Vienna, Austria
++ UN SPIDER ======== United Nations Platform for Space-based Information for Disaster Management and Emergency Response; headquartered in Vienna, Austria
 + USNORTHCOM ======= United States Northern Command is one of eleven unified combatant commands of the United States Department of Defense; headquartered in Colorado Springs, CO
 + USSF ============= United States Space Force is the space service branch of the U.S. Armed Forces, one of the eight U.S. uniformed services, and the world's first and currently only independent space force; headquartered in the Pentagon, Arlington VA
 + USSPACECOM ======= United States Space Command is a unified combatant command of the United States Department of Defense, responsible for military operations in outer space, specifically all operations 100 kilometers above mean sea level; headquartered in Peterson Space Force Base, CO
