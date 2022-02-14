@@ -1,7 +1,7 @@
 ---
 title: "Social Media Monitoring Plan"
 author: Kay Endriss, Incident Management Team Intelligence Officer
-date: "February 23, 2022"
+date: "February 23-24, 2022"
 output: pdf_document 
     theme: cosmo
 ---
@@ -96,10 +96,11 @@ output: pdf_document
 + JPL ============== Jet Propulsion Laboratory is a federally funded research and development center and NASA field center in Pasadena CA
 + NASA ============= National Aeronautics and Space Administration
 + NASA Ames ======== NASA's Ames Research Center, one of ten NASA field centers, is located in the heart of California's Silicon Valley. 
-+ NEO ============== Near-Earth Objects
++ NEA ============== Near-Earth Asteroid
++ NEO ============== Near-Earth Object
 + PDCO ============= NASA Planetary Defense Coordination Office
 + SBN ============== NASA Small Bodies Node
-+ SMPAG ============ Space Mission Planning Advisory Group
++ SMPAG ============ Space Mission Planning Advisory Group; pronounced "same page"
 + TTX ============== Tabletop Exercise
 + UNOOSA =========== United Nations Office for Outer Space Affairs; headquartered in Vienna, Austria
 + UN SPIDER ======== United Nations Platform for Space-based Information for Disaster Management and Emergency Response; headquartered in Vienna, Austria
