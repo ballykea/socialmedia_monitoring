@@ -21,16 +21,16 @@ output: pdf_document
 damage it would cause, remains highly uncertain until just days before impact. 
 
 **DETAILS and EXISTING PLANS:**
-    + TTX4 Read Ahead Materials [TTX4_readAhead_v14_small.pdf](https://github.com/ballykea/socialmedia_monitoring/files/8081343/TTX4_readAhead_v14_small.pdf)
-    + Additional scenario details cneos.jpl.nasa.gov/pd/cs/ttx22
-    + National Near-Earth Object Preparedness Strategy and Action Plan (2018) www.nasa.gov/sites/default/files/atoms/files/ostp-neo-strategy-action-plan-jun18.pdf
-    + Report on Near-Earth Object Impact Threat Emergency Protocols (2021) www.nasa.gov/sites/default/files/atoms/files/neo-impact-threat-emergency-protocols-jan2021.pdf
+* TTX4 Read Ahead Materials [TTX4_readAhead_v14_small.pdf](https://github.com/ballykea/socialmedia_monitoring/files/8081343/TTX4_readAhead_v14_small.pdf)
+* Additional scenario details cneos.jpl.nasa.gov/pd/cs/ttx22
+* National Near-Earth Object Preparedness Strategy and Action Plan (2018) www.nasa.gov/sites/default/files/atoms/files/ostp-neo-strategy-action-plan-jun18.pdf
+* Report on Near-Earth Object Impact Threat Emergency Protocols (2021) www.nasa.gov/sites/default/files/atoms/files/neo-impact-threat-emergency-protocols-jan2021.pdf
 
 **TTX objectives:** Exercise the National Near-Earth Objects (NEO) Preparedness Strategy and Action Plan to
-    + Increase the understanding of personnel and US-government institutions of NEO threats and their roles in mitigating that threat.
-    + Gain high-level participation from all institutions, including USSF and USSPACECOM.
-    + Test methods of communication information both to and among decision makers.
-    + Exercise post-impact protocols, including involvement of local government.
+* Increase the understanding of personnel and US-government institutions of NEO threats and their roles in mitigating that threat.
+* Gain high-level participation from all institutions, including USSF and USSPACECOM.
+* Test methods of communication information both to and among decision makers.
+* Exercise post-impact protocols, including involvement of local government.
     
 **TTX Exercise Coordinator**   
 * Leviticus A. "L.A." Lewis *
