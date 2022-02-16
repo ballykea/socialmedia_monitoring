@@ -1,6 +1,6 @@
 ---
 title: "Social Media Monitoring Plan"
-author: Kay Endriss, Incident Management Team Intelligence Officer
+author: Kay Endriss, Forsyth CERT Volunteer
 date: "February 23-24, 2022"
 output: pdf_document 
     theme: cosmo
@@ -17,6 +17,14 @@ output: pdf_document
 
 ## Event to be Monitored ##
 * 4th Planetary Defense Interagency Tabletop Exercise. The NASA Planetary Defense Coordination Office (PDCO), in partnership with the FEMA Response Directorate, will hold a 1.5-day tabletop exercise (TTX) with senior officials to exercise governmental response to a hypothetical asteroid impact threat and assess national preparedness. The TTX will be Wednesday, February 23 & Thursday, February 24, 2022. Players can participate in-person in Laurel, MD or remotely.
+* THREAT SCENARIO: Astronomers discover an asteroid, designated 2022 TTX, that might impact the Earth in 6 months. As the exercise unfolds, it becomes clear that the asteroid will indeed impact Earth and is large enough to cause substantial regional damage. The asteroid size, and therefore its impact energy and the detailed
+damage it would cause, remains highly uncertain until just days before impact. 
+
+** DETAILS and EXISTING PLANS:**
+    + TTX4 Read Ahead Materials [TTX4_readAhead_v14_small.pdf](https://github.com/ballykea/socialmedia_monitoring/files/8081343/TTX4_readAhead_v14_small.pdf)
+    + Additional scenario details cneos.jpl.nasa.gov/pd/cs/ttx22
+    + National Near-Earth Object Preparedness Strategy and Action Plan (2018) www.nasa.gov/sites/default/files/atoms/files/ostp-neo-strategy-action-plan-jun18.pdf
+    + Report on Near-Earth Object Impact Threat Emergency Protocols (2021) www.nasa.gov/sites/default/files/atoms/files/neo-impact-threat-emergency-protocols-jan2021.pdf
 
 **TTX objectives:** Exercise the National Near-Earth Objects (NEO) Preparedness Strategy and Action Plan to
     + Increase the understanding of personnel and US-government institutions of NEO threats and their roles in mitigating that threat.
@@ -31,7 +39,6 @@ output: pdf_document
     
 **Applicable Multi-Agency Coordination Center Goal:** Coordinate real-time messaging through multi-agency PIO’s, governmental media and social media sources.  
 **Note:** In this incident, it will be particularly important to monitor citizen responses to official information.
-
 
 ***  
 ### Accounts to Potentially Monitor ###
@@ -72,7 +79,7 @@ output: pdf_document
 
 ### Additional Hashtags (Possible Monitoring) ###
 * #HERAMission
-* #NEO (Note can include lots of irrelevant tweets)
+* #NEO (Note can include many irrelevant tweets)
 * 
 
 <!--
@@ -81,7 +88,7 @@ output: pdf_document
 -->
 
 ### Potential Monitoring Tools or Information Sources ###
-#### Specific to this event ####
+#### Specific to This Event ####
 
 ##### ACRONYMS #####
 + APL ============== Johns Hopkins University Applied Physics Laboratory is a not-for-profit university-affiliated research center in Howard County MD
@@ -110,31 +117,28 @@ output: pdf_document
 + White House EOP == Executive Office of the President
 
 
-* https://www.business40nc.com/
-* http://www.partnc.org/biz40/
-* https://www.facebook.com/business40nc
-* Weekend Timeline (scroll down) with links to details from NCDOT Division 9 (via WS Chamber of Commerce) 
-https://www.winstonsalem.com/2018/11/business-40-closes-tomorrow/?fbclid=IwAR2uWpw1JQhHLoEvdRTvqA8egjwIWYhcChZY1rQQhYt5eR1gYhFT4Sjq2wY
-
-* https://www.business40nc.com/Documents/detour-route-exits.pdf Detour route map
-* https://tims.ncdot.gov/tims/RegionSummary.aspx?projectId=5  live traffic cams
-* Call 511 (8:15 a.m. to 7:45 p.m., weekends from 8:15 a.m. to 4:45 p.m. and state holidays from 9:15 a.m. until 4:45 p.m. to speak to a customer service representative).
-* Call NCDOT in Winston-Salem at (336) 747-7800.
-* Send an email to business40@business40nc.com
 
 #### Specific to this type event/hazard ####
 <!--
+##### Fire #####
+* Hashtags
+    + #WSfire
 ##### Flood #####
 ##### Power Outages #####
-##### Traffic #####
+##### Traffic/Transportation #####
 * Waze
     + http://waze.com
     + https://twitter.com/waze
     + https://twitter.com/waze_es (Spanish language)
-    
+
+* Piedmont Authority for Regional Transportation PART NC https://www.partnc.org/ 
+* Winston Salem Transit Authority WSTA https://wstransit.com/
+
 * DriveNC.gov https://tims.ncdot.gov/tims/
+* https://tims.ncdot.gov/tims/RegionSummary.aspx?projectId=5  live traffic cams
 
 * https://twitter.com/Triadroads
+* Call NCDOT in Winston-Salem at (336) 747-7800
 -->
 ##### Near-Earth Object (Asteroid) #####
 
@@ -161,4 +165,5 @@ Monitoring tools listed somewhat in order of use priority. Others may assign dif
 * Share via https://www.facebook.com/ReadyFORSYTH/
 * Share via https://twitter.com/ReadyForsyth
 * Share via http://www.readyforsyth.org
+
 
