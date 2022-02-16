@@ -20,7 +20,7 @@ output: pdf_document
 * THREAT SCENARIO: Astronomers discover an asteroid, designated 2022 TTX, that might impact the Earth in 6 months. As the exercise unfolds, it becomes clear that the asteroid will indeed impact Earth and is large enough to cause substantial regional damage. The asteroid size, and therefore its impact energy and the detailed
 damage it would cause, remains highly uncertain until just days before impact. 
 
-** DETAILS and EXISTING PLANS:**
+**DETAILS and EXISTING PLANS:**
     + TTX4 Read Ahead Materials [TTX4_readAhead_v14_small.pdf](https://github.com/ballykea/socialmedia_monitoring/files/8081343/TTX4_readAhead_v14_small.pdf)
     + Additional scenario details cneos.jpl.nasa.gov/pd/cs/ttx22
     + National Near-Earth Object Preparedness Strategy and Action Plan (2018) www.nasa.gov/sites/default/files/atoms/files/ostp-neo-strategy-action-plan-jun18.pdf
