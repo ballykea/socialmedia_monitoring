@@ -61,13 +61,16 @@ damage it would cause, remains highly uncertain until just days before impact.
     + https://twitter.com/UN_SPIDER
     + https://twitter.com/UNOOSA
     + https://twitter.com/Josep_Trigo (good communicator)
-    + https://twitter.com/AsteroidDay
+    + https://twitter.com/AsteroidDay (June 30)
 
 * Twitter List created by NASA Small Bodies Node: IAWN-asteroids https://twitter.com/i/lists/1241016250966388736
 * Twitter List created by NASA Small Bodies Node: IAWN-signatories https://twitter.com/i/lists/1241019801130143744
 
+
+
 * https://www.facebook.com/GOFCSONC/  Forsyth County Sheriff's Office
 * https://twitter.com/fcfd911comm  911 Communications
+
 <!--
 ### Websites and Additional Information ###
 -->
@@ -81,7 +84,7 @@ damage it would cause, remains highly uncertain until just days before impact.
 
 ### Additional Hashtags (Possible Monitoring) ###
 * #HERAMission
-* #NEO (Note can include many irrelevant tweets)
+* #NEO (Note: can include many irrelevant tweets)
 * 
 
 <!--
@@ -101,6 +104,7 @@ damage it would cause, remains highly uncertain until just days before impact.
 + DoD ============== United States Department of Defense
 + ESA ============== European Space Agency
 + FEMA ============= Federal Emergency Management Agency
++ IAU ============== International Astronomical Union
 + IAWN ============= International Asteroid Warning Network
 + JPL ============== Jet Propulsion Laboratory is a federally funded research and development center and NASA field center in Pasadena CA
 + NASA ============= National Aeronautics and Space Administration
@@ -143,6 +147,9 @@ damage it would cause, remains highly uncertain until just days before impact.
 * Call NCDOT in Winston-Salem at (336) 747-7800
 -->
 ##### Near-Earth Object (Asteroid) #####
+
++ Torino Impact Hazard Scale. The Torino Scale, adopted by the IAU in 1999, is a tool for categorizing potential Earth impact events. An integer scale ranging from 0 to 10 with associated color coding, it is intended primarily to facilitate public communication by the asteroid impact hazard monitoring community. The scale captures the likelihood and consequences of a potential impact event, but does not consider the time remaining until the potential impact. More extraordinary events are indicated by a higher Torino Scale value. https://cneos.jpl.nasa.gov/sentry/torino_scale.html
++ Palermo Technical Impact Hazard Scale. The Palermo Technical Impact Hazard Scale was developed to enable NEO specialists to categorize and prioritize potential impact risks spanning a wide range of impact dates, energies and probabilities. Actual scale values less than -2 reflect events for which there are no likely consequences, while Palermo Scale values between -2 and 0 indicate situations that merit careful monitoring. Potential impacts with positive Palermo Scale values will generally indicate situations that merit some level of concern. https://cneos.jpl.nasa.gov/sentry/palermo_scale.html
 
 #### General Monitoring Tools and Information Sources ####
 * TweetDeck (https://tweetdeck.twitter.com) See helpful info at (https://dgvost.uk/2017/04/tweetdeck/) TweetDeck consists of a series of customisable columns, which can be set up to display the user's Twitter timeline, mentions, direct messages, lists, trends, favorites, search results, hashtags, or all tweets by or to a single user.
