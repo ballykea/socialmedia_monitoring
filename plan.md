@@ -60,6 +60,8 @@ damage it would cause, remains highly uncertain until just days before impact.
     + https://twitter.com/StateDept
     + https://twitter.com/UN_SPIDER
     + https://twitter.com/UNOOSA
+    + https://twitter.com/Josep_Trigo (good communicator)
+    + https://twitter.com/AsteroidDay
 
 * Twitter List created by NASA Small Bodies Node: IAWN-asteroids https://twitter.com/i/lists/1241016250966388736
 * Twitter List created by NASA Small Bodies Node: IAWN-signatories https://twitter.com/i/lists/1241019801130143744
