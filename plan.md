@@ -110,6 +110,7 @@ damage it would cause, remains highly uncertain until just days before impact.
 + NASA ============= National Aeronautics and Space Administration
 + NASA Ames ======== NASA's Ames Research Center, one of ten NASA field centers, is located in the heart of California's Silicon Valley. 
 + NEA ============== Near-Earth Asteroid
++ OSTP ============= Office of Science and Technology Policy|The White House
 + NEO ============== Near-Earth Object
 + PDCO ============= NASA Planetary Defense Coordination Office
 + SBN ============== NASA Small Bodies Node
